@@ -1,0 +1,79 @@
+287.000000 ₿
+To:[I:1]
+From:77:A 287.000000 ₿
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAABCAAdFiEEPupNg1gu2wWnBIG0o4BC9gfWI9oFAl9J2vAACgkQo4BC9gfW
+I9qCtA/+P95N/zQDAPzEh6+GvZDbuR0J8zgua3W5XGWMsdDyAiDTDs0Vj5eFNAYR
+p5Vwgps3rvlXpMV64TY45v4S72Kq11pVVvjRd48OK103yC3O/1jWR4sn+/XMsm8/
+5Mg0jn80i3pH7eq7wOIaCBVkKfLcydVYjJRxgjM2dYDrC0L2aDvMyOPxDIi7Uyy+
+DYPFltgHUlPw/24X65xceViXcCxKYFQlOmqX+xXR8p1Y+yuu+uBHMXMP6T+6ApwC
+8qH02Tj5JCLDChVJJiUwtrHAeHp7Xo/OMTHXQ9Br6QY6UD3n9LZwxXwqb/SQvB+k
+qomWi4hLw+FG/EhsNfmP6wpzdzE0yNcm8vRIWTUPSo0Phm656H5bz8oYqBOAWOuM
+7f+VPg82COf70SBI7YOjjM7ClsluYn0kxWJ0L/KsK2xK9OoLS7kCNQxkw4gSYsXz
+xnHymxb4Rgx2rNOl+49reDB3k2CUgp1OiBWL4STAgV/oX9iJrcmd+vfpXi33NykJ
+V8CfguEU6jQCCZ3QJDEif1UUK+wLEjiUCGvNdLZFpqXXgdBIIuEssuetd9lJXaWB
+WRdomX4yR7qfN6khVk1Th9DNHFst8sGcOS9KZthwSbwvpDoBC4FhCx4wgOFvGqk1
+un4Dsd/wVTqBN3+gI4EWDLIKNO/QQUL3n+sY5dLYKiS06y8SzsA=
+=h1gU
+-----END PGP SIGNATURE-----
+
+From e60b7909e95413e00e4676ebeb73a1c6365f87c2 Mon Sep 17 00:00:00 2001
+From: ExE Boss <3889017+ExE-Boss@users.noreply.github.com>
+Date: Tue, 19 Jan 2021 12:00:00 +0100
+Subject: [PATCH] =?UTF-8?q?[idlharness]=20Test=C2=A0class=C2=A0string=20of?=
+ =?UTF-8?q?=C2=A0prototype=C2=A0objects?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ resources/idlharness.js | 22 +++++++++++-----------
+ 1 file changed, 11 insertions(+), 11 deletions(-)
+
+diff --git a/resources/idlharness.js b/resources/idlharness.js
+index 994a0d82ef44..0df1077c25e9 100644
+--- a/resources/idlharness.js
++++ b/resources/idlharness.js
+@@ -2020,28 +2020,28 @@ IdlInterface.prototype.test_self = function()
+                 // only way to get our hands on it. We only test that its class
+                 // string, at least, is correct.
+                 assert_class_string(Object.getPrototypeOf(this.get_interface_object().prototype),
+-                                    inherit_interface + 'Prototype',
++                                    inherit_interface,
+                                     'Class name for prototype of ' + this.name +
+-                                    '.prototype is not "' + inherit_interface + 'Prototype"');
++                                    '.prototype is not "' + inherit_interface + '"');
+             }
+         }
+ 
+         // "The class string of an interface prototype object is the
+-        // concatenation of the interface’s qualified identifier and the string
+-        // “Prototype”."
++        // interface’s qualified name."
+ 
+-        // Skip these tests for now due to a specification issue about
+-        // prototype name.
+-        // https://www.w3.org/Bugs/Public/show_bug.cgi?id=28244
++        // "If an object has a class string classString, then the object must,
++        // at the time it is created, have a property whose name is the
++        // @@toStringTag symbol with PropertyDescriptor{[[Writable]]: false,
++        // [[Enumerable]]: false, [[Configurable]]: true, [[Value]]: classString}."
+ 
+-        // assert_class_string(this.get_interface_object().prototype, this.get_qualified_name() + "Prototype",
+-        //                     "class string of " + this.name + ".prototype");
++        assert_class_string(this.get_interface_object().prototype, this.get_qualified_name(),
++                            "class string of " + this.name + ".prototype");
+ 
+         // String() should end up calling {}.toString if nothing defines a
+         // stringifier.
+         if (!this.has_stringifier()) {
+-            // assert_equals(String(this.get_interface_object().prototype), "[object " + this.get_qualified_name() + "Prototype]",
+-            //         "String(" + this.name + ".prototype)");
++            assert_equals(String(this.get_interface_object().prototype), "[object " + this.get_qualified_name() + "]",
++                          "String(" + this.name + ".prototype)");
+         }
+     }.bind(this), this.name + " interface: existence and properties of interface prototype object");
+”Monzturr”,”eminem”
+”satoshi””johann””marshall”HULSTROM.GSO/EDU

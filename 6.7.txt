@@ -1,0 +1,8 @@
+Block details
+
+Date: 2021-01-13 18:53:03 UTC
+Duration: 1 hour, 1 minute
+Pool Scoring Hashrate: 4.070 Eh/s
+Coin: Bitcoin
+Value: 7.69236131 BTC
+Height: 665920

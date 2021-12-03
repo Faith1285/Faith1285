@@ -1,0 +1,3168 @@
+฿3,655.32 btc*
+$365500000000.32 USD*
+Dw
+
+# Blockchain Wallet API V2are fit to be in their life and that makes me sad. But I wanted to personally reach out and let
+
+Programmatically interface with your Blockchain.info wallet.
+73 32 100 111 32 108 111 118 101 32 121 111 117 32 100 97 100 32 97 110 100 32 73 32 104 111 112 101 32 111 110 101 32 100 97 121 32 121 111 117 32 99 97 110 32 103 101 116 32 121 111 117 114 32 108 105 102 101 32 116 111 103 101 116 104 101 114 46 32 66 117 116 32 116 104 101 32 114 101 97 115 111 110 32 73 32 114 101 97 99 104 101 100 32 111 117 116 32 105 115 32 98 101 99 97 117 115 101 32 73 32 119 97 110 116 101 100 32 116 111 32 108 101 116 32 121 111 117 32 107 110 111 119 32 73 32 97 109 32 112 114 101 103 110 97 110 116 32 97 110 100 32 104 97 118 105 110 103 32 97 32 99 104 105 108 100 46 32 73 32 106 117 115 116 32 100 111 32 110 111 116 32 119 97 110 116 32 121 111 117 32 116 111 32 114 101 97 99 104 32 111 117 116 32 116 111 32 116 104 101 109 46 32 73 32 100 111 110 39 116 32 102 101 101 108 32 97 116 32 116 104 105 115 32 116 105 109 101 32 121 111 117 32 97 114 101 32 102 105 116 32 116 111 32 98 101 32 105 110 32 116 104 101 105 114 32 108 105 102 101 32 97 110 100 32 116 104 97 116 32 109 97 107 101 115 32 109 101 32 115 97 100 46 32 66 117 116 32 73 32 119 97 110 116 101 100 32 116 111 32 112 101 114 115 111 110 97 108 108 121 32 114 101 97 99 104 32 111 117 116 32 97 110 100 32 108 101 116 32 121 111 117 32 107 110 111 119 46 32 73 32 114 101 97 108 108 121 32 104 111 112 101 32 111 110 101 32 100 97 121 32 121 111 117 32 99 97 110 32 115 116 111 112 32 100 111 105 110 103 32 100 114 117 103 115 44 32 97 110 100 32 103 101 116 32 121 111 117 114 32 108 105 102 101 32 116 111 103 101 116 104 101 114 46 32 84 114 117 108 121 32 73 32 119 105 115 104 32 121 111 117 32 116 104 101 32 98 101 115 116 32 
+##01001001 00100000 01100100 01101111 00100000 01101100 01101111 01110110 01100101 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01100100 00100000 01100001 01101110 01100100 00100000 01001001 00100000 01101000 01101111 01110000 01100101 00100000 01101111 01101110 01100101 00100000 01100100 01100001 01111001 00100000 01111001 01101111 01110101 00100000 01100011 01100001 01101110 00100000 01100111 01100101 01110100 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01110100 01101111 01100111 01100101 01110100 01101000 01100101 01110010 00101110 00100000 01000010 01110101 01110100 00100000 01110100 01101000 01100101 00100000 01110010 01100101 01100001 01110011 01101111 01101110 00100000 01001001 00100000 01110010 01100101 01100001 01100011 01101000 01100101 01100100 00100000 01101111 01110101 01110100 00100000 01101001 01110011 00100000 01100010 01100101 01100011 01100001 01110101 01110011 01100101 00100000 01001001 00100000 01110111 01100001 01101110 01110100 01100101 01100100 00100000 01110100 01101111 00100000 01101100 01100101 01110100 00100000 01111001 01101111 01110101 00100000 01101011 01101110 01101111 01110111 00100000 01001001 00100000 01100001 01101101 00100000 01110000 01110010 01100101 01100111 01101110 01100001 01101110 01110100 00100000 01100001 01101110 01100100 00100000 01101000 01100001 01110110 01101001 01101110 01100111 00100000 01100001 00100000 01100011 01101000 01101001 01101100 01100100 00101110 00100000 01001001 00100000 01101010 01110101 01110011 01110100 00100000 01100100 01101111 00100000 01101110 01101111 01110100 00100000 01110111 01100001 01101110 01110100 00100000 01111001 01101111 01110101 00100000 01110100 01101111 00100000 01110010 01100101 01100001 01100011 01101000 00100000 01101111 01110101 01110100 00100000 01110100 01101111 00100000 01110100 01101000 01100101 01101101 00101110 00100000 01001001 00100000 01100100 01101111 01101110 00100111 01110100 00100000 01100110 01100101 01100101 01101100 00100000 01100001 01110100 00100000 01110100 01101000 01101001 01110011 00100000 01110100 01101001 01101101 01100101 00100000 01111001 01101111 01110101 00100000 01100001 01110010 01100101 00100000 01100110 01101001 01110100 00100000 01110100 01101111 00100000 01100010 01100101 00100000 01101001 01101110 00100000 01110100 01101000 01100101 01101001 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01100001 01101110 01100100 00100000 01110100 01101000 01100001 01110100 00100000 01101101 01100001 01101011 01100101 01110011 00100000 01101101 01100101 00100000 01110011 01100001 01100100 00101110 00100000 01000010 01110101 01110100 00100000 01001001 00100000 01110111 01100001 01101110 01110100 01100101 01100100 00100000 01110100 01101111 00100000 01110000 01100101 01110010 01110011 01101111 01101110 01100001 01101100 01101100 01111001 00100000 01110010 01100101 01100001 01100011 01101000 00100000 01101111 01110101 01110100 00100000 01100001 01101110 01100100 00100000 01101100 01100101 01110100 00100000 01111001 01101111 01110101 00100000 01101011 01101110 01101111 01110111 00101110 00100000 01001001 00100000 01110010 01100101 01100001 01101100 01101100 01111001 00100000 01101000 01101111 01110000 01100101 00100000 01101111 01101110 01100101 00100000 01100100 01100001 01111001 00100000 01111001 01101111 01110101 00100000 01100011 01100001 01101110 00100000 01110011 01110100 01101111 01110000 00100000 01100100 01101111 01101001 01101110 01100111 00100000 01100100 01110010 01110101 01100111 01110011 00101100 00100000 01100001 01101110 01100100 00100000 01100111 01100101 01110100 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01110100 01101111 01100111 01100101 01110100 01101000 01100101 01110010 00101110 00100000 01010100 01110010 01110101 01101100 01111001 00100000 01001001 00100000 01110111 01101001 01110011 01101000 00100000 01111001 01101111 01110101 00100000 01110100 01101000 01100101 00100000 01100010 01100101 01110011 01110100 00100000  ContentsSSBkbyBsb3ZlIHlvdSBkYWQgYW5kIEkgaG9wZSBvbmUgZGF5IHlvdSBjYW4gZ2V0IHlvdXIgbGlm
+ZSB0b2dldGhlci4gQnV0IHRoZSByZWFzb24gSSByZWFjaGVkIG91dCBpcyBiZWNhdXNlIEkgd2Fu
+dGVkIHRvIGxldCB5b3Uga25vdyBJIGFtIHByZWduYW50IGFuZCBoYXZpbmcgYSBjaGlsZC4gSSBq
+dXN0IGRvIG5vdCB3YW50IHlvdSB0byByZWFjaCBvdXQgdG8gdGhlbS4gSSBkb24ndCBmZWVsIGF0
+IHRoaXMgdGltZSB5b3UgYXJlIGZpdCB0byBiZSBpbiB0aGVpciBsaWZlIGFuZCB0aGF0IG1ha2Vz
+IG1lIHNhZC4gQnV0IEkgd2FudGVkIHRvIHBlcnNvbmFsbHkgcmVhY2ggb3V0IGFuZCBsZXQgeW91
+IGtub3cuIEkgcmVhbGx5IGhvcGUgb25lIGRheSB5b3UgY2FuIHN0b3AgZG9pbmcgZHJ1Z3MsIGFu
+ZCBnZXQgeW91ciBsaWZlIHRvZ2V0aGVyLiBUcnVseSBJIHdpc2ggeW91IHRoZSBiZXN0IA==
+
+49 20 64 6F 20 6C 6F 76 65 20 79 6F 75 20 64 61 64 20 61 6E 64 20 49 20 68 6F 70 65 20 6F 6E 65 20 64 61 79 20 79 6F 75 20 63 61 6E 20 67 65 74 20 79 6F 75 72 20 6C 69 66 65 20 74 6F 67 65 74 68 65 72 2E 20 42 75 74 20 74 68 65 20 72 65 61 73 6F 6E 20 49 20 72 65 61 63 68 65 64 20 6F 75 74 20 69 73 20 62 65 63 61 75 73 65 20 49 20 77 61 6E 74 65 64 20 74 6F 20 6C 65 74 20 79 6F 75 20 6B 6E 6F 77 20 49 20 61 6D 20 70 72 65 67 6E 61 6E 74 20 61 6E 64 20 68 61 76 69 6E 67 20 61 20 63 68 69 6C 64 2E 20 49 20 6A 75 73 74 20 64 6F 20 6E 6F 74 20 77 61 6E 74 20 79 6F 75 20 74 6F 20 72 65 61 63 68 20 6F 75 74 20 74 6F 20 74 68 65 6D 2E 20 49 20 64 6F 6E 27 74 20 66 65 65 6C 20 61 74 20 74 68 69 73 20 74 69 6D 65 20 79 6F 75 20 61 72 65 20 66 69 74 20 74 6F 20 62 65 20 69 6E 20 74 68 65 69 72 20 6C 69 66 65 20 61 6E 64 20 74 68 61 74 20 6D 61 6B 65 73 20 6D 65 20 73 61 64 2E 20 42 75 74 20 49 20 77 61 6E 74 65 64 20 74 6F 20 70 65 72 73 6F 6E 61 6C 6C 79 20 72 65 61 63 68 20 6F 75 74 20 61 6E 64 20 6C 65 74 20 79 6F 75 20 6B 6E 6F 77 2E 20 49 20 72 65 61 6C 6C 79 20 68 6F 70 65 20 6F 6E 65 20 64 61 79 20 79 6F 75 20 63 61 6E 20 73 74 6F 70 20 64 6F 69 6E 67 20 64 72 75 67 73 2C 20 61 6E 64 20 67 65 74 20 79 6F 75 72 20 6C 69 66 65 20 74 6F 67 65 74 68 65 72 2E 20 54 72 75 6C 79 20 49 20 77 69 73 68 20 79 6F 75 20 74 68 65 20 62 65 73 74 20 111 40 144 157 40 154 157 166 145 40 171 157 165 40 144 141 144 40 141 156 144 40 111 40 150 157 160 145 40 157 156 145 40 144 141 171 40 171 157 165 40 143 141 156 40 147 145 164 40 171 157 165 162 40 154 151 146 145 40 164 157 147 145 164 150 145 162 56 40 102 165 164 40 164 150 145 40 162 145 141 163 157 156 40 111 40 162 145 141 143 150 145 144 40 157 165 164 40 151 163 40 142 145 143 141 165 163 145 40 111 40 167 141 156 164 145 144 40 164 157 40 154 145 164 40 171 157 165 40 153 156 157 167 40 111 40 141 155 40 160 162 145 147 156 141 156 164 40 141 156 144 40 150 141 166 151 156 147 40 141 40 143 150 151 154 144 56 40 111 40 152 165 163 164 40 144 157 40 156 157 164 40 167 141 156 164 40 171 157 165 40 164 157 40 162 145 141 143 150 40 157 165 164 40 164 157 40 164 150 145 155 56 40 111 40 144 157 156 47 164 40 146 145 145 154 40 141 164 40 164 150 151 163 40 164 151 155 145 40 171 157 165 40 141 162 145 40 146 151 164 40 164 157 40 142 145 40 151 156 40 164 150 145 151 162 40 154 151 146 145 40 141 156 144 40 164 150 141 164 40 155 141 153 145 163 40 155 145 40 163 141 144 56 40 102 165 164 40 111 40 167 141 156 164 145 144 40 164 157 40 160 145 162 163 157 156 141 154 154 171 40 162 145 141 143 150 40 157 165 164 40 141 156 144 40 154 145 164 40 171 157 165 40 153 156 157 167 56 40 111 40 162 145 141 154 154 171 40 150 157 160 145 40 157 156 145 40 144 141 171 40 171 157 165 40 143 141 156 40 163 164 157 160 40 144 157 151 156 147 40 144 162 165 147 163 54 40 141 156 144 40 147 145 164 40 171 157 165 162 40 154 151 146 145 40 164 157 147 145 164 150 145 162 56 40 124 162 165 154 171 40 111 40 167 151 163 150 40 171 157 165 40 164 150 145 40 142 145 163 164 40 
+  * [Getting Started01001001 00100000 01100100 01101111 00100000 01101100 01101111 01110110 01100101 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01100100 00100000 01100001 01101110 01100100 00100000 01001001 00100000 01101000 01101111 01110000 01100101 00100000 01101111 01101110 01100101 00100000 01100100 01100001 01111001 00100000 01111001 01101111 01110101 00100000 01100011 01100001 01101110 00100000 01100111 01100101 01110100 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01110100 01101111 01100111 01100101 01110100 01101000 01100101 01110010 00101110 00100000 01000010 01110101 01110100 00100000 01110100 01101000 01100101 00100000 01110010 01100101 01100001 01110011 01101111 01101110 00100000 01001001 00100000 01110010 01100101 01100001 01100011 01101000 01100101 01100100 00100000 01101111 01110101 01110100 00100000 01101001 01110011 00100000 01100010 01100101 01100011 01100001 01110101 01110011 01100101 00100000 01001001 00100000 01110111 01100001 01101110 01110100 01100101 01100100 00100000 01110100 01101111 00100000 01101100 01100101 01110100 00100000 01111001 01101111 01110101 00100000 01101011 01101110 01101111 01110111 00100000 01001001 00100000 01100001 01101101 00100000 01110000 01110010 01100101 01100111 01101110 01100001 01101110 01110100 00100000 01100001 01101110 01100100 00100000 01101000 01100001 01110110 01101001 01101110 01100111 00100000 01100001 00100000 01100011 01101000 01101001 01101100 01100100 00101110 00100000 01001001 00100000 01101010 01110101 01110011 01110100 00100000 01100100 01101111 00100000 01101110 01101111 01110100 00100000 01110111 01100001 01101110 01110100 00100000 01111001 01101111 01110101 00100000 01110100 01101111 00100000 01110010 01100101 01100001 01100011 01101000 00100000 01101111 01110101 01110100 00100000 01110100 01101111 00100000 01110100 01101000 01100101 01101101 00101110 00100000 01001001 00100000 01100100 01101111 01101110 00100111 01110100 00100000 01100110 01100101 01100101 01101100 00100000 01100001 01110100 00100000 01110100 01101000 01101001 01110011 00100000 01110100 01101001 01101101 01100101 00100000 01111001 01101111 01110101 00100000 01100001 01110010 01100101 00100000 01100110 01101001 01110100 00100000 01110100 01101111 00100000 01100010 01100101 00100000 01101001 01101110 00100000 01110100 01101000 01100101 01101001 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01100001 01101110 01100100 00100000 01110100 01101000 01100001 01110100 00100000 01101101 01100001 01101011 01100101 01110011 00100000 01101101 01100101 00100000 01110011 01100001 01100100 00101110 00100000 01000010 01110101 01110100 00100000 01001001 00100000 01110111 01100001 01101110 01110100 01100101 01100100 00100000 01110100 01101111 00100000 01110000 01100101 01110010 01110011 01101111 01101110 01100001 01101100 01101100 01111001 00100000 01110010 01100101 01100001 01100011 01101000 00100000 01101111 01110101 01110100 00100000 01100001 01101110 01100100 00100000 01101100 01100101 01110100 00100000 01111001 01101111 01110101 00100000 01101011 01101110 01101111 01110111 00101110 00100000 01001001 00100000 01110010 01100101 01100001 01101100 01101100 01111001 00100000 01101000 01101111 01110000 01100101 00100000 01101111 01101110 01100101 00100000 01100100 01100001 01111001 00100000 01111001 01101111 01110101 00100000 01100011 01100001 01101110 00100000 01110011 01110100 01101111 01110000 00100000 01100100 01101111 01101001 01101110 01100111 00100000 01100100 01110010 01110101 01100111 01110011 00101100 00100000 01100001 01101110 01100100 00100000 01100111 01100101 01110100 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01110100 01101111 01100111 01100101 01110100 01101000 01100101 01110010 00101110 00100000 01010100 01110010 01110101 01101100 01111001 00100000 01001001 00100000 01110111 01101001 01110011 01101000 00100000 01111001 01101111 01110101 00100000 01110100 01101000 01100101 00100000 01100010 01100101 01110011 01110100 00100000 ](#getting-started)
+  * [Upgrading](#upgrading)
+  * [API Documentation](#api-documentation)
+  * [RPC API](#rpc)
+  * [Installation](#installation)
+  * [Troubleshooting](#troubleshooting)
+  * [Usage](#usage)
+  * [Development](#development)
+  * [Deployment](#deployment)
+
+## Getting Started
+
+To use this API, you will need to run small local service which be responsible for managing your Blockchain.info wallet. Your application interacts with this service locally via HTTP API calls.
+
+Start by completing the following steps:
+
+  1. Follow the [installation instructions](#installation)
+  2. Start the server: `$ blockchain-wallet-service start --port 3000`
+  3. Reference the [documentation](#api-documentation) and start interacting with your wallet programmatically!
+0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+Note that `blockchain-wallet-service` is designed to be run locally on the same machine as your application and therefore will only accept connections from `localhost`. If you modify this service to accept external connections, be sure to add the appropriate firewall rules to prevent unauthorized use.
+
+An API code is required for wallet creation and higher request limits. For basic usage, no API code is required. Request an API code [Skip to content
+
+Sign up
+
+Coding-Enthusiast/FinderOute0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAFr
+
+Easy to use bitcoin recovery tool to fix damaged private key, mini-private key, address, BIP38 encrypted key, mnemonic (seed phrase), BIP-32 derivation path, Armory backups and 0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+ MIT License
+
+ 54 stars  32 forks
+
+ Star
+
+ Notifications
+
+Code
+
+Issues13
+
+Pull requests
+
+Actions
+
+Projects
+
+Wiki
+
+Security
+
+Insights
+
+ master 
+
+Go to file
+0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+Latest commit
+
+￼
+
+Coding-Enthusiast
+
+…
+
+7 days ago
+
+Git stats
+
+File0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAFs
+
+Type
+
+Name
+
+Commit time
+
+Doc/Images
+
+18 days ago
+
+Doc/Images
+
+Src
+
+7 days ago
+
+Src
+
+.gitattributes
+
+17 months ago
+
+.gitattributes
+
+.gitignore
+
+17 months ago
+
+.gitignore
+
+.travis.yml
+
+6 months ago
+
+.travis.yml
+
+CHANGELOG.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+18 days ago
+
+CHANGELOG.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+License
+
+17 months ago
+
+License
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+18 days ago
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+￼ ￼ ￼{ ￼
+
+The FinderOuter
+
+The FinderOuter is a bitcoin recovery tool that focuses on making the recovery process easy for everyone with any level of technical knowledge. It uses a simple user interface with a list of recovery options. Each option has an explanation and many hints helping user figure out what is needed. It always consist of filling some text boxes and selecting some options and finally clicking the Find button. This eliminates the need to read long guide pages on how to use the application. Each option also has some example cases that can show a simple preview of how each option should be filled for different cases.
+
+FinderOuter is specialized for maximum efficiency, each recovery option and their parts are written from scratch and all those parts down to the basic cryptography used (such as SHA, ECC,...) are specialized for that operation.
+
+Thanks to .Net core and AvaloniaUI FinderOuter can run on all operating systems.
+This project is written fully in C# and is 100% open source and will always remain free to use. You can make a donation if you found this tool useful.
+FinderOuter is still in beta and under development. New features are slowly added and everything is optimized.
+Contribution is always welcome. Please report any bugs you find or any improvement suggestions you have by creating a new issue.
+
+Quick guide
+
+Select an option from this list depending on what you want to recover
+
+Read the instructions
+
+Fill in the required information
+
+Select appropriate available options according to the entered data
+
+Some parts have tooltips for extra explanation
+
+Click Find button
+
+See the progress and the reports
+
+Progressbar showing the progress percentage shows up for options that use multi-threading (take more than a couple of seconds to complete)
+
+All recovery options come with examples, click this button repeatedly to cycle through them
+
+Some parts have a help button that brings up the respective FinderOuter knowledge base page
+
+￼
+
+Available options
+
+1. Message signature verification
+
+User can enter a message signature here to verify it. In case there is a problem with the message (except being an actually invalid signature), the code can search to find the common issues that some signing tools have and fix them.
+
+2. Missing Base-58 characters
+
+This option can be used to recover any base-58 encoded string with a checksum that is missing some characters. For example a damaged paper wallet where some characters are erased/unreadable. The position of missing characters must be known.
+It works for (1) WIFs (Base-58 encoded private key) (2) Addresses (Base-58 encoded P2PKH or P2SH address) (3) BIP-38 (Base-58 encoded encrypted private key).
+https://apps.apple.com/us/app/eventleaf-check-in/id1126916053
+There is also a "special case" where a compressed private key is missing 3 characters at unknown positions.
+
+3. Missing Base-16 characters
+
+This option is similar to previous feature but works for base-16 (hexadecimal) private keys. Since there is no checksum in this encoding it requires an additional input to check each permutation against. It accepts any address type and public keys. This option is slower in comparison because it uses ECC and that is not yet optimized.
+
+4. Missing mini-privatekey characters
+
+This option is similar to 2 and 3 but works for mini-privatekeys (eg. SzavMBLoXU6kDrqtUVmffv). It requires the corresponding address or public key of the minikey to check each possible key against, as a result it is also slower since it depends on ECC and has 2 additional hashes.
+
+5. Missing mnomonic (seed) words
+
+This option works for both BIP-39 and Electrum mnemonics that have some missing words. It requires knowing one child (private/public) key or address created from that seed and the exact derivation path of it.
+ca22475cad045a7336c6923483608f001c88785f56b6280559b90ed902b1be89
+6. Missing BIP-32 derivation path
+
+This option could be used to find derivation path of a child key (private key, public key or the address) by having the mnemonic or the extended master keys (xprv or xpub). It only checks a hard-coded list of popular derivation paths.
+
+7. Missing characters in Armory recovery phrase
+
+This option is used to recover Armory paper backups (containing 2 or 4 lines of 36 characters in Base-16 with custom char-set) that are missing some of their characters. Since the last 4 characters of each line is the checksum this option can be very fast (1 trillion keys/sec) if the checksum is available or extremely slow (100 key/sec) if not.
+
+8. Missing string encoding
+
+This option could be used to determine the encoding of an arbitrary text. It currently supports Base-16, Base-43, Base-58, Base-58 with checksum and Base-64. All inputs will be converted to hexadecimal.
+
+Future plans
+
+Optimization is always at the top of the to-do list
+
+BIP-39 passphrase (extention words) recovery
+
+File password recovery (user knows some parts of his password but not all and has the encrypted wallet file)
+
+BIP-38 password recovery
+
+Converting versioned WIFs to regular WIFs (BIP-178 and early vertion 3 Electrum wallets)
+
+SIMD code
+
+GPU support
+
+Getting started
+
+Step 1: Preparation
+
+You can ignore this step at your own risk and skip to step 2.
+Since this project deals with sensative information such as private keys, mnemonics, etc. the safest approach is to run it on a clean and air-gapped computer. Easiest way of acheiving that is using a live Linux:
+
+Download Ubuntu or any other Linux OS (all FinderOuter releases are tested on 64-bit Ubuntu 20.04 before being published)
+
+Verify Ubuntu's iso (link)
+
+Follow step 2 while you are still online
+
+Disconnect network cable (to remain offline)
+
+Burn that ISO on a DVD or could be a USB disk (link)
+
+Boot into Ubuntu to run FinderOuter
+
+After you are done, shut down Ubuntu and remove the medium used in step 5
+
+Step 2: Download and build
+
+If you cannot or do not want to build you can go to releases where the ready to run binaires are found for 3 different x64 operating systems: Windows, Linux and MacOS. the other two files named Source code.zip and Source code.tar.gz are the project's source code that GitHub automatically adds at that release version's commit.
+
+To build FinderOuter:
+If you have Visual Studio you can clone this repository and build the included solution file called FinderOuter.sln.
+Building is also possible through these steps using command line:
+
+Get Git: https://git-scm.com/downloads
+
+Get .NET 5.0 SDK: https://dotnet.microsoft.com/download (see TargetFramework in FinderOuter.csproj for the required .net version in case readme wasn't updated)
+
+Clone FinderOuter git clone https://github.com/Coding-Enthusiast/FinderOuter.git
+
+Build using dotnet publish -c Release -r <RID> --self-contained true (replace <RID> with RID of the operating system you want to build for. e.g. win-x64 for x64 Windows or linux-arm64 for Linux x64 ARM)
+
+Important notes:
+
+Remember to build the project using release configuration to benefit from compiler optimizations.
+
+.Net applications can be published as self contained which will increase the size of the binray by including the required framework in it. That helps running the application on any computer (like the live Linux explained above) without needing to install .Net separately. The size can be reduced by selecting the Trim unused assemblies option.
+
+This project can be built on and used on any operating system, use -r|--runtime <RUNTIME_IDENTIFIER> to specify OS with the correct RID.
+
+Step 3: Run
+
+If you have compiled FinderOuter as SCD or downloaded the provided binaries there is no need to download .Net Core, otherwise it has to be downloaded and installed on the system that needs to run FinderOuter.
+FinderOuter can be run by using console/terminal command dotnet FinderOuter.dll for Linux, dotnet FinderOuter on MacOs and running the FinderOuter.exe on Windows.
+Linux may require providing persmissions first (more info):
+
+Provide execute permissions chmod 777 ./FinderOuter
+
+Execute application ./FinderOuter
+
+Contributing
+
+Please first check out conventions for information about coding styles, versioning, making pull requests, and more.
+
+Donations
+
+If You found this tool helpful consider making a donation:
+Legacy address: 1Q9swRQuwhTtjZZ2yguFWk7m7pszknkWyk
+SegWit address: bc1q3n5t9gv40ayq68nwf0yth49dt5c799wpld376s
+
+Releases 13
+
+Version 0.10.0Latest
+
+18 days ago
+
++ 12 releases
+
+Languages
+
+C#100.0%
+
+© 2021 GitHub, Inc.
+
+Terms
+
+Privacy
+
+Security
+
+Status
+
+Docs
+
+Contact GitHub
+
+Pricing
+
+API
+
+Training
+
+Blog
+
+About
+
+
+](https://blockchain.info/api/api_create_code).
+
+## Upgrading
+
+If you already have an application that uses [Blockchain.info's Wallet API](https://blockchain.info/api/blockchain_wallet_api), you will need to complete the steps in the Getting Started section above and then, in your application code, replace calls to `blockchain.info/merchant/...` with `localhost:<port>/merchant/...`.
+
+## API Documentation
+
+View the [original documentation](https://blockchain.info/api/blockchain_wallet_api).
+
+All endpoints present in the API documentation above are supported in Blockchain Wallet API V2. The differences between two are:
+
+  * The "consolidate addresses" endpoint has been omitted
+
+All endpoints can be called with `GET` or `POST`, and can only be accessed from `localhost`.
+
+### Creating a new Blockchain Wallet
+
+Endpoint: `/api/v2/create`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (required)
+  * `priv` - private key to import into wallet as first address (optional)
+  * `label` - label to give to the first address generated in the wallet (optional)
+  * `email` - email to associate with the newly created wallet (optional)
+
+Sample Response:
+
+```json
+{
+  "guid": "05f290be-dbef-4636-a809-868893c51711",
+  "address": "13R9dBgKwBP29JKo11zhfi74YuBsMxJ4qY",
+  "label": "Main address"
+}
+```
+
+### Make Payment
+
+Endpoint: `/merchant/:guid/payment`
+
+Query Parameters:
+
+  * `to` - bitcoin address to send to (required)
+  * `amount` - amount **in satoshi** to send (required)
+  * `password` - main wallet password (required)
+  * `second_password` - second wallet password (required, only if second password is enabled)
+  * `api_code` - blockchain.info wallet api code (optional)
+  * `from` - bitcoin address or account index to send from (optional)
+  * `fee` - specify transaction fee **in satoshi**
+  * `fee_per_byte` - specify transaction fee-per-byte **in satoshi**
+
+*It is recommended that transaction fees are specified using the `fee_per_byte` parameter, which will compute your final fee based on the size of the transaction. You can also set a static fee using the `fee` parameter, but doing so may result in a low fee-per-byte, leading to longer confirmation times.*
+
+Sample Response:
+
+```json
+{
+  "to" : ["1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq"],
+  "from": ["17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY"],
+  "amounts": [200000],
+  "fee": 1000,
+  "txid": "f322d01ad784e5deeb25464a5781c3b20971c1863679ca506e702e3e33c18e9c",
+  "success": true
+}
+```
+
+### Send to Many
+
+Endpoint: `/merchant/:guid/sendmany`
+
+Query Parameters:
+
+  * `recipients` - a *URI encoded* [JSON object](http://json.org/example.html), with bitcoin addresses as keys and the **satoshi** amounts as values (required, see example below)
+  * `password` - main wallet password (required)
+  * `second_password` - second wallet password (required, only if second password is enabled)
+  * `api_code` - blockchain.info wallet api code (optional)
+  * `from` - bitcoin address or account index to send from (optional)
+  * `fee` - specify transaction fee **in satoshi**
+  * `fee_per_byte` - specify transaction fee-per-byte **in satoshi**
+
+*It is recommended that transaction fees are specified using the `fee_per_byte` parameter, which will compute your final fee based on the size of the transaction. You can also set a static fee using the `fee` parameter, but doing so may result in a low fee-per-byte, leading to longer confirmation times.*
+
+URI Encoding a JSON object in JavaScript:
+
+```js
+var myObject = { address1: 10000, address2: 50000 };
+var myJSONString = JSON.stringify(myObject);
+// `encodeURIComponent` is a global function
+var myURIEncodedJSONString = encodeURIComponent(myJSONString);
+// use `myURIEncodedJSONString` as the `recipients` parameter
+```
+
+Sample Response:
+
+```json
+{
+  "to" : ["1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq", "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy"],
+  "from": ["17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY"],
+  "amounts": [16000, 5400030],
+  "fee": 2000,
+  "txid": "f322d01ad784e5deeb25464a5781c3b20971c1863679ca506e702e3e33c18e9c",
+  "success": true
+}
+```
+
+### Fetch Wallet Balance
+
+Endpoint: `/merchant/:guid/balance`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (required)
+
+Sample Response:
+
+```json
+{ "balance": 10000 }
+```
+
+### Enable HD Functionality
+
+Endpoint: `/merchant/:guid/enableHD`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+This will upgrade a wallet to an HD (Hierarchical Deterministic) Wallet, which allows the use of accounts. See [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) for more information on HD wallets and accounts.
+
+### List Active HD Accounts
+
+Endpoint: `/merchant/:guid/accounts`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### List HD xPubs
+
+Endpoint: `/merchant/:guid/accounts/xpubs`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Create New HD Account
+
+Endpoint: `/merchant/:guid/accounts/create`
+
+Query Parameters:
+
+  * `label` - label to assign to the newly created account (optional)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Get Single HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Get HD Account Receiving Address
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/receiveAddress`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Check HD Account Balance
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/balance`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Archive HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/archive`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Unarchive HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/unarchive`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### List Addresses (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/list`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{
+  "addresses": [
+    {
+        "balance": 79434360,
+        "address": "1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq",
+        "label": "My Wallet",
+        "total_received": 453300048335
+    },
+    {
+        "balance": 0,
+        "address": "17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY",
+        "total_received": 0
+    }
+  ]
+}
+```
+
+### Fetch Address Balance (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/address_balance`
+
+Query Parameters:
+
+  * `address` - address to fetch balance for (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Note: unlike the hosted API, there is no option of a `confirmations` parameter for specifying minimum confirmations.
+
+Sample Response:
+
+```json
+{ "balance": 129043, "address": "19r7jAbPDtfTKQ9VJpvDzFFxCjUJFKesVZ", "total_received": 53645423 }
+```
+
+### Generate Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/new_address`PayPal.digital/me/monzturrmathers/CSV/md/php/johannhulstrom@hotmail.com/bitcoin/satoshilabs/genesis/whitepaperaward42/blockchain/ethe/ripple/TRON/watch/explorer/0/
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `label` - label to give to the address (optional)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "address" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" , "label":  "My New Address" }
+```
+
+### Archive Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/archive_address`
+
+Query Parameters:
+
+  * `address` - address to archive (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "archived" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" }
+```
+
+### Unarchive Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/unarchive_address`
+
+Query Parameters:
+
+  * `address` - address to unarchive (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "active" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" }
+```
+
+## RPC
+
+Bitcoind compatible RPC API. Full documentation available [here](https://blockchain.info/api/json_rpc_api).
+
+Starting the RPC server:
+
+```
+$ blockchain-wallet-service start-rpc [options]
+```
+
+View additional options and instructions under [Usage](#usage).
+
+Differences from server API:
+
+  * Option `-rpcssl` is not supported
+  * Method `listsinceblock` is not supported
+  * Param `minConfimations` is not supported for methods `listreceivedbyaccount` and `listreceivedbyaddress`
+  * Param `minimumConfirmations` is not supported for method `getbalance`
+  * Param `confirmations` is not supported for method `listaccounts`
+  * Responses representing transactions have a different format
+
+## Installation
+
+[`nodejs`](https://nodejs.org) and [`npm`](https://npmjs.com) are required to install and use this API service. Installation:
+
+```sh
+$ npm install -g blockchain-wallet-service
+```
+
+For the best stability and performance, make sure you are always using the latest version.
+
+To check your version:
+
+```sh
+$ blockchain-wallet-service -V
+```
+
+To update to the latest version:
+
+```sh
+$ npm update -g blockchain-wallet-service
+```
+
+Requires:
+
+  * node >= 6.0.0
+  * npm >= 3.0.0
+
+If you have issues with the installation process, see the troubleshooting section below.
+
+## Troubleshooting
+
+Installation errors:
+
+  * If you are getting `EACCESS` or permissions-related errors, it might be necessary to run the install as root, using the `sudo` command.
+
+  * If you are getting errors concerning node-gyp or python, install with `npm install --no-optional`
+
+Startup errors:
+
+  * If startup fails with `/usr/bin/env: node: No such file or directory`, it's possible node is not installed, or was installed with a different name (Ubuntu, for example, installs node as nodejs). If node was installed with a different name, create a symlink to your node binary: `sudo ln -s /usr/bin/nodejs /usr/bin/node`, or install node through [Node Version Manager](https://github.com/creationix/nvm).
+
+Runtime errors:
+
+  * If you are seeing a `TypeError` claiming that an object `has no method 'compare'`, it is because you are on a version of Node older than 0.12, before the `compare` method was added to Buffers. Try upgrading to at least Node version 0.12.
+
+  * If you are getting wallet decryption errors despite having correct credentials, then it's possible that you do not have Java installed, which is required by a dependency of the my-wallet-v3 module. Not having Java installed during the `npm install` process can result in the inability to decrypt wallets. Download the JDK from [here for Mac](https://support.apple.com/kb/DL1572) or by running `apt-get install default-jdk` on debian-based linux systems.
+
+Timeout Errors:
+
+  * If you are getting a timeout response, additional authorization from your blockchain wallet may be required. This can occur when using an unrecognized browser or IP address. An email authorizing the API access attempt will be sent to the registered user that will require action in order to authorize future requests.
+
+If this section did not help, please open a github issue or visit our [support center](https://blockchain.zendesk.com).
+
+## Usage
+
+After installing the service, the command `blockchain-wallet-service` will be available for use.
+
+### Options
+
+  * `-h, --help` - output usage information
+  * `-V, --version` - output the version number
+  * `-c, --cwd` - use the current directory as the wallet service module (development only)
+
+### Commands
+
+#### start
+
+Usage: `blockchain-wallet-service start [options]`
+
+This command will start the service, making Blockchain Wallet API V2 available on a specified port.
+
+Command options:
+
+  * `-h, --help` - output usage information
+  * `-p, --port` - port number to run the server on (defaults to `3000`)
+  * `-b, --bind` - bind to a specific ip (defaults to `127.0.0.1`, note that binding to an ip other than this can lead to security vulnerabilities)
+  * `--ssl-key` - the path to your ssl key (optional)
+  * `--ssl-cert` - the path to your ssl certificate (optional)
+
+To open the service to all incoming connections, bind to `0.0.0.0`.
+
+#### start-rpc
+
+Usage: `blockchain-wallet-service start-rpc [options]`
+
+This command will start the JSON RPC server.
+
+Options:
+
+  * `-k, --key` - api code to use for server requests (required option)
+  * `-p, --rpcport` - rpc server port (default: 8000)
+  * `-b, --bind` - bind to a specific ip (defaults to `127.0.0.1`, note that binding to an ip other than this can lead to security vulnerabilities)
+
+Get an API code [here](https://blockchain.info/api/api_create_code).
+
+### Examples
+
+To start the Wallet API service on port 3000:
+
+```sh
+$ blockchain-wallet-service start --port 3000
+```
+
+## Development
+
+  1. Clone this repo
+  2. Run `yarn --ignore-engines`
+  3. Run `yarn start`
+  4. Dev server is now running on port 3000
+
+If you are developing `blockchain-wallet-client` alongside this module, it is useful to create a symlink to `my-wallet-v3`:
+
+```sh
+$ ln -s ../path/to/my-wallet-v3 node_modules/blockchain-wallet-client
+```
+
+### Testing
+
+```sh
+$ yarn test
+```
+
+### Configuration
+
+Optional parameters can be configured in a `.env` file:
+
+  * `PORT` - port number for running dev server (default: `3000`)
+  * `BIND` - ip address to bind the service to (default: `127.0.0.1`)
+
+## Deployment
+
+If you want to use blockchain-wallet-service in your UNIX production server, you just have to run:
+
+```sh
+$ nohup blockchain-wallet-service start --port 3000 &
+```฿3,655.32 btc*
+$365500000000.32 USD*
+Dw
+
+# Blockchain Wallet API V2
+
+Programmatically interface with your Blockchain.info wallet.
+
+## Contents
+
+  * [Getting Started](#getting-started)
+  * [Upgrading](#upgrading)
+  * [API Documentation](#api-documentation)
+  * [RPC API](#rpc)
+  * [Installation](#installation)
+  * [Troubleshooting](#troubleshooting)
+  * [Usage](#usage)
+  * [Development](#development)
+  * [Deployment](#deployment)
+
+## Getting Started
+
+To use this API, you will need to run small local service which be responsible for managing your Blockchain.info wallet. Your application interacts with this service locally via HTTP API calls.
+
+Start by completing the following steps:
+
+  1. Follow the [installation instructions](#installation)
+  2. Start the server: `$ blockchain-wallet-service start --port 3000`
+  3. Reference the [documentation](#api-documentation) and start interacting with your wallet programmatically!
+0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+Note that `blockchain-wallet-service` is designed to be run locally on the same machine as your application and therefore will only accept connections from `localhost`. If you modify this service to accept external connections, be sure to add the appropriate firewall rules to prevent unauthorized use.
+
+An API code is required for wallet creation and higher request limits. For basic usage, no API code is required. Request an API code [Skip to content
+
+Sign up
+
+Coding-Enthusiast/FinderOute0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAFr
+
+Easy to use bitcoin recovery tool to fix damaged private key, mini-private key, address, BIP38 encrypted key, mnemonic (seed phrase), BIP-32 derivation path, Armory backups and 0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+ MIT License
+
+ 54 stars  32 forks
+
+ Star
+
+ Notifications
+
+Code
+
+Issues13
+
+Pull requests
+
+Actions
+
+Projects
+
+Wiki
+
+Security
+
+Insights
+
+ master 
+
+Go to file
+0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+Latest commit
+
+￼
+
+Coding-Enthusiast
+
+…
+
+7 days ago
+
+Git stats
+
+File0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAFs
+
+Type
+
+Name
+
+Commit time
+
+Doc/Images
+
+18 days ago
+
+Doc/Images
+
+Src
+
+7 days ago
+
+Src
+
+.gitattributes
+
+17 months ago
+
+.gitattributes
+
+.gitignore
+
+17 months ago
+
+.gitignore
+
+.travis.yml
+
+6 months ago
+
+.travis.yml
+
+CHANGELOG.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+18 days ago
+
+CHANGELOG.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+License
+
+17 months ago
+
+License
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+18 days ago
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+￼ ￼ ￼{ ￼
+
+The FinderOuter
+
+The FinderOuter is a bitcoin recovery tool that focuses on making the recovery process easy for everyone with any level of technical knowledge. It uses a simple user interface with a list of recovery options. Each option has an explanation and many hints helping user figure out what is needed. It always consist of filling some text boxes and selecting some options and finally clicking the Find button. This eliminates the need to read long guide pages on how to use the application. Each option also has some example cases that can show a simple preview of how each option should be filled for different cases.
+
+FinderOuter is specialized for maximum efficiency, each recovery option and their parts are written from scratch and all those parts down to the basic cryptography used (such as SHA, ECC,...) are specialized for that operation.
+
+Thanks to .Net core and AvaloniaUI FinderOuter can run on all operating systems.
+This project is written fully in C# and is 100% open source and will always remain free to use. You can make a donation if you found this tool useful.
+FinderOuter is still in beta and under development. New features are slowly added and everything is optimized.
+Contribution is always welcome. Please report any bugs you find or any improvement suggestions you have by creating a new issue.
+
+Quick guide
+
+Select an option from this list depending on what you want to recover
+
+Read the instructions
+
+Fill in the required information
+
+Select appropriate available options according to the entered data
+
+Some parts have tooltips for extra explanation
+
+Click Find button
+
+See the progress and the reports
+
+Progressbar showing the progress percentage shows up for options that use multi-threading (take more than a couple of seconds to complete)
+
+All recovery options come with examples, click this button repeatedly to cycle through them
+
+Some parts have a help button that brings up the respective FinderOuter knowledge base page
+
+￼
+
+Available options
+
+1. Message signature verification
+
+User can enter a message signature here to verify it. In case there is a problem with the message (except being an actually invalid signature), the code can search to find the common issues that some signing tools have and fix them.
+
+2. Missing Base-58 characters
+
+This option can be used to recover any base-58 encoded string with a checksum that is missing some characters. For example a damaged paper wallet where some characters are erased/unreadable. The position of missing characters must be known.
+It works for (1) WIFs (Base-58 encoded private key) (2) Addresses (Base-58 encoded P2PKH or P2SH address) (3) BIP-38 (Base-58 encoded encrypted private key).
+
+There is also a "special case" where a compressed private key is missing 3 characters at unknown positions.
+
+3. Missing Base-16 characters
+
+This option is similar to previous feature but works for base-16 (hexadecimal) private keys. Since there is no checksum in this encoding it requires an additional input to check each permutation against. It accepts any address type and public keys. This option is slower in comparison because it uses ECC and that is not yet optimized.
+
+4. Missing mini-privatekey characters
+
+This option is similar to 2 and 3 but works for mini-privatekeys (eg. SzavMBLoXU6kDrqtUVmffv). It requires the corresponding address or public key of the minikey to check each possible key against, as a result it is also slower since it depends on ECC and has 2 additional hashes.
+
+5. Missing mnomonic (seed) words
+
+This option works for both BIP-39 and Electrum mnemonics that have some missing words. It requires knowing one child (private/public) key or address created from that seed and the exact derivation path of it.
+
+6. Missing BIP-32 derivation path
+
+This option could be used to find derivation path of a child key (private key, public key or the address) by having the mnemonic or the extended master keys (xprv or xpub). It only checks a hard-coded list of popular derivation paths.
+
+7. Missing characters in Armory recovery phrase
+
+This option is used to recover Armory paper backups (containing 2 or 4 lines of 36 characters in Base-16 with custom char-set) that are missing some of their characters. Since the last 4 characters of each line is the checksum this option can be very fast (1 trillion keys/sec) if the checksum is available or extremely slow (100 key/sec) if not.
+
+8. Missing string encoding
+
+This option could be used to determine the encoding of an arbitrary text. It currently supports Base-16, Base-43, Base-58, Base-58 with checksum and Base-64. All inputs will be converted to hexadecimal.
+
+Future plans
+
+Optimization is always at the top of the to-do list
+
+BIP-39 passphrase (extention words) recovery
+
+File password recovery (user knows some parts of his password but not all and has the encrypted wallet file)
+
+BIP-38 password recovery
+
+Converting versioned WIFs to regular WIFs (BIP-178 and early vertion 3 Electrum wallets)
+
+SIMD code
+
+GPU support
+
+Getting started
+
+Step 1: Preparation
+
+You can ignore this step at your own risk and skip to step 2.
+Since this project deals with sensative information such as private keys, mnemonics, etc. the safest approach is to run it on a clean and air-gapped computer. Easiest way of acheiving that is using a live Linux:
+
+Download Ubuntu or any other Linux OS (all FinderOuter releases are tested on 64-bit Ubuntu 20.04 before being published)
+
+Verify Ubuntu's iso (link)
+
+Follow step 2 while you are still online
+
+Disconnect network cable (to remain offline)
+
+Burn that ISO on a DVD or could be a USB disk (link)
+
+Boot into Ubuntu to run FinderOuter
+
+After you are done, shut down Ubuntu and remove the medium used in step 5
+
+Step 2: Download and build
+
+If you cannot or do not want to build you can go to releases where the ready to run binaires are found for 3 different x64 operating systems: Windows, Linux and MacOS. the other two files named Source code.zip and Source code.tar.gz are the project's source code that GitHub automatically adds at that release version's commit.
+
+To build FinderOuter:
+If you have Visual Studio you can clone this repository and build the included solution file called FinderOuter.sln.
+Building is also possible through these steps using command line:
+
+Get Git: https://git-scm.com/downloads
+
+Get .NET 5.0 SDK: https://dotnet.microsoft.com/download (see TargetFramework in FinderOuter.csproj for the required .net version in case readme wasn't updated)
+
+Clone FinderOuter git clone https://github.com/Coding-Enthusiast/FinderOuter.git
+
+Build using dotnet publish -c Release -r <RID> --self-contained true (replace <RID> with RID of the operating system you want to build for. e.g. win-x64 for x64 Windows or linux-arm64 for Linux x64 ARM)
+
+Important notes:
+
+Remember to build the project using release configuration to benefit from compiler optimizations.
+
+.Net applications can be published as self contained which will increase the size of the binray by including the required framework in it. That helps running the application on any computer (like the live Linux explained above) without needing to install .Net separately. The size can be reduced by selecting the Trim unused assemblies option.
+
+This project can be built on and used on any operating system, use -r|--runtime <RUNTIME_IDENTIFIER> to specify OS with the correct RID.
+
+Step 3: Run
+
+If you have compiled FinderOuter as SCD or downloaded the provided binaries there is no need to download .Net Core, otherwise it has to be downloaded and installed on the system that needs to run FinderOuter.
+FinderOuter can be run by using console/terminal command dotnet FinderOuter.dll for Linux, dotnet FinderOuter on MacOs and running the FinderOuter.exe on Windows.
+Linux may require providing persmissions first (more info):
+
+Provide execute permissions chmod 777 ./FinderOuter
+
+Execute application ./FinderOuter
+
+Contributing
+
+Please first check out conventions for information about coding styles, versioning, making pull requests, and more.
+
+Donations
+
+If You found this tool helpful consider making a donation:
+Legacy address: 1Q9swRQuwhTtjZZ2yguFWk7m7pszknkWyk
+SegWit address: bc1q3n5t9gv40ayq68nwf0yth49dt5c799wpld376s
+
+Releases 13
+
+Version 0.10.0Latest
+
+18 days ago
+
++ 12 releases
+
+Languages
+
+C#100.0%
+
+© 2021 GitHub, Inc.
+
+Terms
+
+Privacy
+
+Security
+
+Status
+
+Docs
+
+Contact GitHub
+
+Pricing
+
+API
+
+Training
+
+Blog
+
+About
+
+
+](https://blockchain.info/api/api_create_code).
+
+## Upgrading
+
+If you already have an application that uses [Blockchain.info's Wallet API](https://blockchain.info/api/blockchain_wallet_api), you will need to complete the steps in the Getting Started section above and then, in your application code, replace calls to `blockchain.info/merchant/...` with `localhost:<port>/merchant/...`.
+
+## API Documentation
+
+View the [original documentation](https://blockchain.info/api/blockchain_wallet_api).
+
+All endpoints present in the API documentation above are supported in Blockchain Wallet API V2. The differences between two are:
+
+  * The "consolidate addresses" endpoint has been omitted
+
+All endpoints can be called with `GET` or `POST`, and can only be accessed from `localhost`.
+
+### Creating a new Blockchain Wallet
+
+Endpoint: `/api/v2/create`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (required)
+  * `priv` - private key to import into wallet as first address (optional)
+  * `label` - label to give to the first address generated in the wallet (optional)
+  * `email` - email to associate with the newly created wallet (optional)
+
+Sample Response:
+
+```json
+{
+  "guid": "05f290be-dbef-4636-a809-868893c51711",
+  "address": "13R9dBgKwBP29JKo11zhfi74YuBsMxJ4qY",
+  "label": "Main address"
+}
+```
+
+### Make Payment
+
+Endpoint: `/merchant/:guid/payment`
+
+Query Parameters:
+
+  * `to` - bitcoin address to send to (required)
+  * `amount` - amount **in satoshi** to send (required)
+  * `password` - main wallet password (required)
+  * `second_password` - second wallet password (required, only if second password is enabled)
+  * `api_code` - blockchain.info wallet api code (optional)
+  * `from` - bitcoin address or account index to send from (optional)
+  * `fee` - specify transaction fee **in satoshi**
+  * `fee_per_byte` - specify transaction fee-per-byte **in satoshi**
+
+*It is recommended that transaction fees are specified using the `fee_per_byte` parameter, which will compute your final fee based on the size of the transaction. You can also set a static fee using the `fee` parameter, but doing so may result in a low fee-per-byte, leading to longer confirmation times.*
+
+Sample Response:
+
+```json
+{
+  "to" : ["1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq"],
+  "from": ["17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY"],
+  "amounts": [200000],
+  "fee": 1000,
+  "txid": "f322d01ad784e5deeb25464a5781c3b20971c1863679ca506e702e3e33c18e9c",
+  "success": true
+}
+```
+
+### Send to Many
+
+Endpoint: `/merchant/:guid/sendmany`
+
+Query Parameters:
+
+  * `recipients` - a *URI encoded* [JSON object](http://json.org/example.html), with bitcoin addresses as keys and the **satoshi** amounts as values (required, see example below)
+  * `password` - main wallet password (required)
+  * `second_password` - second wallet password (required, only if second password is enabled)
+  * `api_code` - blockchain.info wallet api code (optional)
+  * `from` - bitcoin address or account index to send from (optional)
+  * `fee` - specify transaction fee **in satoshi**
+  * `fee_per_byte` - specify transaction fee-per-byte **in satoshi**
+
+*It is recommended that transaction fees are specified using the `fee_per_byte` parameter, which will compute your final fee based on the size of the transaction. You can also set a static fee using the `fee` parameter, but doing so may result in a low fee-per-byte, leading to longer confirmation times.*
+
+URI Encoding a JSON object in JavaScript:
+
+```js
+var myObject = { address1: 10000, address2: 50000 };
+var myJSONString = JSON.stringify(myObject);
+// `encodeURIComponent` is a global function
+var myURIEncodedJSONString = encodeURIComponent(myJSONString);
+// use `myURIEncodedJSONString` as the `recipients` parameter
+```
+
+Sample Response:
+
+```json
+{
+  "to" : ["1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq", "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy"],
+  "from": ["17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY"],
+  "amounts": [16000, 5400030],
+  "fee": 2000,
+  "txid": "f322d01ad784e5deeb25464a5781c3b20971c1863679ca506e702e3e33c18e9c",
+  "success": true
+}
+```
+
+### Fetch Wallet Balance
+
+Endpoint: `/merchant/:guid/balance`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (required)
+
+Sample Response:
+
+```json
+{ "balance": 10000 }
+```
+
+### Enable HD Functionality
+
+Endpoint: `/merchant/:guid/enableHD`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+This will upgrade a wallet to an HD (Hierarchical Deterministic) Wallet, which allows the use of accounts. See [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) for more information on HD wallets and accounts.
+
+### List Active HD Accounts
+
+Endpoint: `/merchant/:guid/accounts`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### List HD xPubs
+
+Endpoint: `/merchant/:guid/accounts/xpubs`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Create New HD Account
+
+Endpoint: `/merchant/:guid/accounts/create`
+
+Query Parameters:
+
+  * `label` - label to assign to the newly created account (optional)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Get Single HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Get HD Account Receiving Address
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/receiveAddress`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Check HD Account Balance
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/balance`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Archive HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/archive`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Unarchive HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/unarchive`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### List Addresses (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/list`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{
+  "addresses": [
+    {
+        "balance": 79434360,
+        "address": "1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq",
+        "label": "My Wallet",
+        "total_received": 453300048335
+    },
+    {
+        "balance": 0,
+        "address": "17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY",
+        "total_received": 0
+    }
+  ]
+}
+```
+
+### Fetch Address Balance (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/address_balance`
+
+Query Parameters:
+
+  * `address` - address to fetch balance for (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Note: unlike the hosted API, there is no option of a `confirmations` parameter for specifying minimum confirmations.
+
+Sample Response:
+
+```json
+{ "balance": 129043, "address": "19r7jAbPDtfTKQ9VJpvDzFFxCjUJFKesVZ", "total_received": 53645423 }
+```
+
+### Generate Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/new_address`PayPal.digital/me/monzturrmathers/CSV/md/php/johannhulstrom@hotmail.com/bitcoin/satoshilabs/genesis/whitepaperaward42/blockchain/ethe/ripple/TRON/watch/explorer/0/
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `label` - label to give to the address (optional)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "address" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" , "label":  "My New Address" }
+```
+
+### Archive Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/archive_address`
+
+Query Parameters:
+
+  * `address` - address to archive (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "archived" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" }
+```
+
+### Unarchive Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/unarchive_address`
+
+Query Parameters:
+
+  * `address` - address to unarchive (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "active" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" }
+```
+
+## RPC
+
+Bitcoind compatible RPC API. Full documentation available [here](https://blockchain.info/api/json_rpc_api).
+
+Starting the RPC server:
+
+```
+$ blockchain-wallet-service start-rpc [options]
+```
+
+View additional options and instructions under [Usage](#usage).
+
+Differences from server API:
+
+  * Option `-rpcssl` is not supported
+  * Method `listsinceblock` is not supported
+  * Param `minConfimations` is not supported for methods `listreceivedbyaccount` and `listreceivedbyaddress`
+  * Param `minimumConfirmations` is not supported for method `getbalance`
+  * Param `confirmations` is not supported for method `listaccounts`
+  * Responses representing transactions have a different format
+
+## Installation
+
+[`nodejs`](https://nodejs.org) and [`npm`](https://npmjs.com) are required to install and use this API service. Installation:
+
+```sh
+$ npm install -g blockchain-wallet-service
+```
+
+For the best stability and performance, make sure you are always using the latest version.
+
+To check your version:
+
+```sh
+$ blockchain-wallet-service -V
+```
+
+To update to the latest version:
+
+```sh
+$ npm update -g blockchain-wallet-service
+```
+
+Requires:
+
+  * node >= 6.0.0
+  * npm >= 3.0.0
+
+If you have issues with the installation process, see the troubleshooting section below.
+
+## Troubleshooting
+
+Installation errors:
+
+  * If you are getting `EACCESS` or permissions-related errors, it might be necessary to run the install as root, using the `sudo` command.
+
+  * If you are getting errors concerning node-gyp or python, install with `npm install --no-optional`
+
+Startup errors:
+
+  * If startup fails with `/usr/bin/env: node: No such file or directory`, it's possible node is not installed, or was installed with a different name (Ubuntu, for example, installs node as nodejs). If node was installed with a different name, create a symlink to your node binary: `sudo ln -s /usr/bin/nodejs /usr/bin/node`, or install node through [Node Version Manager](https://github.com/creationix/nvm).
+
+Runtime errors:
+
+  * If you are seeing a `TypeError` claiming that an object `has no method 'compare'`, it is because you are on a version of Node older than 0.12, before the `compare` method was added to Buffers. Try upgrading to at least Node version 0.12.
+
+  * If you are getting wallet decryption errors despite having correct credentials, then it's possible that you do not have Java installed, which is required by a dependency of the my-wallet-v3 module. Not having Java installed during the `npm install` process can result in the inability to decrypt wallets. Download the JDK from [here for Mac](https://support.apple.com/kb/DL1572) or by running `apt-get install default-jdk` on debian-based linux systems.
+
+Timeout Errors:
+
+  * If you are getting a timeout response, additional authorization from your blockchain wallet may be required. This can occur when using an unrecognized browser or IP address. An email authorizing the API access attempt will be sent to the registered user that will require action in order to authorize future requests.
+
+If this section did not help, please open a github issue or visit our [support center](https://blockchain.zendesk.com).
+
+## Usage
+
+After installing the service, the command `blockchain-wallet-service` will be available for use.
+
+### Options
+
+  * `-h, --help` - output usage information
+  * `-V, --version` - output the version number
+  * `-c, --cwd` - use the current directory as the wallet service module (development only)
+
+### Commands
+
+#### start
+
+Usage: `blockchain-wallet-service start [options]`
+
+This command will start the service, making Blockchain Wallet API V2 available on a specified port.
+
+Command options:
+
+  * `-h, --help` - output usage information
+  * `-p, --port` - port number to run the server on (defaults to `3000`)
+  * `-b, --bind` - bind to a specific ip (defaults to `127.0.0.1`, note that binding to an ip other than this can lead to security vulnerabilities)
+  * `--ssl-key` - the path to your ssl key (optional)
+  * `--ssl-cert` - the path to your ssl certificate (optional)
+
+To open the service to all incoming connections, bind to `0.0.0.0`.
+
+#### start-rpc
+
+Usage: `blockchain-wallet-service start-rpc [options]`
+
+This command will start the JSON RPC server.
+
+Options:
+
+  * `-k, --key` - api code to use for server requests (required option)
+  * `-p, --rpcport` - rpc server port (default: 8000)
+  * `-b, --bind` - bind to a specific ip (defaults to `127.0.0.1`, note that binding to an ip other than this can lead to security vulnerabilities)
+
+Get an API code [here](https://blockchain.info/api/api_create_code).
+
+### Examples
+
+To start the Wallet API service on port 3000:
+
+```sh
+$ blockchain-wallet-service start --port 3000
+```
+
+## Development
+
+  1. Clone this repo
+  2. Run `yarn --ignore-engines`
+  3. Run `yarn start`
+  4. Dev server is now running on port 3000
+
+If you are developing `blockchain-wallet-client` alongside this module, it is useful to create a symlink to `my-wallet-v3`:
+
+```sh
+$ ln -s ../path/to/my-wallet-v3 node_modules/blockchain-wallet-client
+```
+
+### Testing
+
+```sh
+$ yarn test
+```
+
+### Configuration
+
+Optional parameters can be configured in a `.env` file:
+
+  * `PORT` - port number for running dev server (default: `3000`)
+  * `BIND` - ip address to bind the service to (default: `127.0.0.1`)
+
+## Deployment
+
+If you want to use blockchain-wallet-service in your UNIX production server, you just have to run:
+
+```sh
+$ nohup blockchain-wallet-service start --port 3000 &
+```
+
+฿3,655.32 btc*
+$365500000000.32 USD*
+Dw
+
+# Blockchain Wallet API V2are fit to be in their life and that makes me sad. But I wanted to personally reach out and let
+
+Programmatically interface with your Blockchain.info wallet.
+73 32 100 111 32 108 111 118 101 32 121 111 117 32 100 97 100 32 97 110 100 32 73 32 104 111 112 101 32 111 110 101 32 100 97 121 32 121 111 117 32 99 97 110 32 103 101 116 32 121 111 117 114 32 108 105 102 101 32 116 111 103 101 116 104 101 114 46 32 66 117 116 32 116 104 101 32 114 101 97 115 111 110 32 73 32 114 101 97 99 104 101 100 32 111 117 116 32 105 115 32 98 101 99 97 117 115 101 32 73 32 119 97 110 116 101 100 32 116 111 32 108 101 116 32 121 111 117 32 107 110 111 119 32 73 32 97 109 32 112 114 101 103 110 97 110 116 32 97 110 100 32 104 97 118 105 110 103 32 97 32 99 104 105 108 100 46 32 73 32 106 117 115 116 32 100 111 32 110 111 116 32 119 97 110 116 32 121 111 117 32 116 111 32 114 101 97 99 104 32 111 117 116 32 116 111 32 116 104 101 109 46 32 73 32 100 111 110 39 116 32 102 101 101 108 32 97 116 32 116 104 105 115 32 116 105 109 101 32 121 111 117 32 97 114 101 32 102 105 116 32 116 111 32 98 101 32 105 110 32 116 104 101 105 114 32 108 105 102 101 32 97 110 100 32 116 104 97 116 32 109 97 107 101 115 32 109 101 32 115 97 100 46 32 66 117 116 32 73 32 119 97 110 116 101 100 32 116 111 32 112 101 114 115 111 110 97 108 108 121 32 114 101 97 99 104 32 111 117 116 32 97 110 100 32 108 101 116 32 121 111 117 32 107 110 111 119 46 32 73 32 114 101 97 108 108 121 32 104 111 112 101 32 111 110 101 32 100 97 121 32 121 111 117 32 99 97 110 32 115 116 111 112 32 100 111 105 110 103 32 100 114 117 103 115 44 32 97 110 100 32 103 101 116 32 121 111 117 114 32 108 105 102 101 32 116 111 103 101 116 104 101 114 46 32 84 114 117 108 121 32 73 32 119 105 115 104 32 121 111 117 32 116 104 101 32 98 101 115 116 32 
+##01001001 00100000 01100100 01101111 00100000 01101100 01101111 01110110 01100101 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01100100 00100000 01100001 01101110 01100100 00100000 01001001 00100000 01101000 01101111 01110000 01100101 00100000 01101111 01101110 01100101 00100000 01100100 01100001 01111001 00100000 01111001 01101111 01110101 00100000 01100011 01100001 01101110 00100000 01100111 01100101 01110100 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01110100 01101111 01100111 01100101 01110100 01101000 01100101 01110010 00101110 00100000 01000010 01110101 01110100 00100000 01110100 01101000 01100101 00100000 01110010 01100101 01100001 01110011 01101111 01101110 00100000 01001001 00100000 01110010 01100101 01100001 01100011 01101000 01100101 01100100 00100000 01101111 01110101 01110100 00100000 01101001 01110011 00100000 01100010 01100101 01100011 01100001 01110101 01110011 01100101 00100000 01001001 00100000 01110111 01100001 01101110 01110100 01100101 01100100 00100000 01110100 01101111 00100000 01101100 01100101 01110100 00100000 01111001 01101111 01110101 00100000 01101011 01101110 01101111 01110111 00100000 01001001 00100000 01100001 01101101 00100000 01110000 01110010 01100101 01100111 01101110 01100001 01101110 01110100 00100000 01100001 01101110 01100100 00100000 01101000 01100001 01110110 01101001 01101110 01100111 00100000 01100001 00100000 01100011 01101000 01101001 01101100 01100100 00101110 00100000 01001001 00100000 01101010 01110101 01110011 01110100 00100000 01100100 01101111 00100000 01101110 01101111 01110100 00100000 01110111 01100001 01101110 01110100 00100000 01111001 01101111 01110101 00100000 01110100 01101111 00100000 01110010 01100101 01100001 01100011 01101000 00100000 01101111 01110101 01110100 00100000 01110100 01101111 00100000 01110100 01101000 01100101 01101101 00101110 00100000 01001001 00100000 01100100 01101111 01101110 00100111 01110100 00100000 01100110 01100101 01100101 01101100 00100000 01100001 01110100 00100000 01110100 01101000 01101001 01110011 00100000 01110100 01101001 01101101 01100101 00100000 01111001 01101111 01110101 00100000 01100001 01110010 01100101 00100000 01100110 01101001 01110100 00100000 01110100 01101111 00100000 01100010 01100101 00100000 01101001 01101110 00100000 01110100 01101000 01100101 01101001 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01100001 01101110 01100100 00100000 01110100 01101000 01100001 01110100 00100000 01101101 01100001 01101011 01100101 01110011 00100000 01101101 01100101 00100000 01110011 01100001 01100100 00101110 00100000 01000010 01110101 01110100 00100000 01001001 00100000 01110111 01100001 01101110 01110100 01100101 01100100 00100000 01110100 01101111 00100000 01110000 01100101 01110010 01110011 01101111 01101110 01100001 01101100 01101100 01111001 00100000 01110010 01100101 01100001 01100011 01101000 00100000 01101111 01110101 01110100 00100000 01100001 01101110 01100100 00100000 01101100 01100101 01110100 00100000 01111001 01101111 01110101 00100000 01101011 01101110 01101111 01110111 00101110 00100000 01001001 00100000 01110010 01100101 01100001 01101100 01101100 01111001 00100000 01101000 01101111 01110000 01100101 00100000 01101111 01101110 01100101 00100000 01100100 01100001 01111001 00100000 01111001 01101111 01110101 00100000 01100011 01100001 01101110 00100000 01110011 01110100 01101111 01110000 00100000 01100100 01101111 01101001 01101110 01100111 00100000 01100100 01110010 01110101 01100111 01110011 00101100 00100000 01100001 01101110 01100100 00100000 01100111 01100101 01110100 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01110100 01101111 01100111 01100101 01110100 01101000 01100101 01110010 00101110 00100000 01010100 01110010 01110101 01101100 01111001 00100000 01001001 00100000 01110111 01101001 01110011 01101000 00100000 01111001 01101111 01110101 00100000 01110100 01101000 01100101 00100000 01100010 01100101 01110011 01110100 00100000  ContentsSSBkbyBsb3ZlIHlvdSBkYWQgYW5kIEkgaG9wZSBvbmUgZGF5IHlvdSBjYW4gZ2V0IHlvdXIgbGlm
+ZSB0b2dldGhlci4gQnV0IHRoZSByZWFzb24gSSByZWFjaGVkIG91dCBpcyBiZWNhdXNlIEkgd2Fu
+dGVkIHRvIGxldCB5b3Uga25vdyBJIGFtIHByZWduYW50IGFuZCBoYXZpbmcgYSBjaGlsZC4gSSBq
+dXN0IGRvIG5vdCB3YW50IHlvdSB0byByZWFjaCBvdXQgdG8gdGhlbS4gSSBkb24ndCBmZWVsIGF0
+IHRoaXMgdGltZSB5b3UgYXJlIGZpdCB0byBiZSBpbiB0aGVpciBsaWZlIGFuZCB0aGF0IG1ha2Vz
+IG1lIHNhZC4gQnV0IEkgd2FudGVkIHRvIHBlcnNvbmFsbHkgcmVhY2ggb3V0IGFuZCBsZXQgeW91
+IGtub3cuIEkgcmVhbGx5IGhvcGUgb25lIGRheSB5b3UgY2FuIHN0b3AgZG9pbmcgZHJ1Z3MsIGFu
+ZCBnZXQgeW91ciBsaWZlIHRvZ2V0aGVyLiBUcnVseSBJIHdpc2ggeW91IHRoZSBiZXN0IA==
+
+49 20 64 6F 20 6C 6F 76 65 20 79 6F 75 20 64 61 64 20 61 6E 64 20 49 20 68 6F 70 65 20 6F 6E 65 20 64 61 79 20 79 6F 75 20 63 61 6E 20 67 65 74 20 79 6F 75 72 20 6C 69 66 65 20 74 6F 67 65 74 68 65 72 2E 20 42 75 74 20 74 68 65 20 72 65 61 73 6F 6E 20 49 20 72 65 61 63 68 65 64 20 6F 75 74 20 69 73 20 62 65 63 61 75 73 65 20 49 20 77 61 6E 74 65 64 20 74 6F 20 6C 65 74 20 79 6F 75 20 6B 6E 6F 77 20 49 20 61 6D 20 70 72 65 67 6E 61 6E 74 20 61 6E 64 20 68 61 76 69 6E 67 20 61 20 63 68 69 6C 64 2E 20 49 20 6A 75 73 74 20 64 6F 20 6E 6F 74 20 77 61 6E 74 20 79 6F 75 20 74 6F 20 72 65 61 63 68 20 6F 75 74 20 74 6F 20 74 68 65 6D 2E 20 49 20 64 6F 6E 27 74 20 66 65 65 6C 20 61 74 20 74 68 69 73 20 74 69 6D 65 20 79 6F 75 20 61 72 65 20 66 69 74 20 74 6F 20 62 65 20 69 6E 20 74 68 65 69 72 20 6C 69 66 65 20 61 6E 64 20 74 68 61 74 20 6D 61 6B 65 73 20 6D 65 20 73 61 64 2E 20 42 75 74 20 49 20 77 61 6E 74 65 64 20 74 6F 20 70 65 72 73 6F 6E 61 6C 6C 79 20 72 65 61 63 68 20 6F 75 74 20 61 6E 64 20 6C 65 74 20 79 6F 75 20 6B 6E 6F 77 2E 20 49 20 72 65 61 6C 6C 79 20 68 6F 70 65 20 6F 6E 65 20 64 61 79 20 79 6F 75 20 63 61 6E 20 73 74 6F 70 20 64 6F 69 6E 67 20 64 72 75 67 73 2C 20 61 6E 64 20 67 65 74 20 79 6F 75 72 20 6C 69 66 65 20 74 6F 67 65 74 68 65 72 2E 20 54 72 75 6C 79 20 49 20 77 69 73 68 20 79 6F 75 20 74 68 65 20 62 65 73 74 20 111 40 144 157 40 154 157 166 145 40 171 157 165 40 144 141 144 40 141 156 144 40 111 40 150 157 160 145 40 157 156 145 40 144 141 171 40 171 157 165 40 143 141 156 40 147 145 164 40 171 157 165 162 40 154 151 146 145 40 164 157 147 145 164 150 145 162 56 40 102 165 164 40 164 150 145 40 162 145 141 163 157 156 40 111 40 162 145 141 143 150 145 144 40 157 165 164 40 151 163 40 142 145 143 141 165 163 145 40 111 40 167 141 156 164 145 144 40 164 157 40 154 145 164 40 171 157 165 40 153 156 157 167 40 111 40 141 155 40 160 162 145 147 156 141 156 164 40 141 156 144 40 150 141 166 151 156 147 40 141 40 143 150 151 154 144 56 40 111 40 152 165 163 164 40 144 157 40 156 157 164 40 167 141 156 164 40 171 157 165 40 164 157 40 162 145 141 143 150 40 157 165 164 40 164 157 40 164 150 145 155 56 40 111 40 144 157 156 47 164 40 146 145 145 154 40 141 164 40 164 150 151 163 40 164 151 155 145 40 171 157 165 40 141 162 145 40 146 151 164 40 164 157 40 142 145 40 151 156 40 164 150 145 151 162 40 154 151 146 145 40 141 156 144 40 164 150 141 164 40 155 141 153 145 163 40 155 145 40 163 141 144 56 40 102 165 164 40 111 40 167 141 156 164 145 144 40 164 157 40 160 145 162 163 157 156 141 154 154 171 40 162 145 141 143 150 40 157 165 164 40 141 156 144 40 154 145 164 40 171 157 165 40 153 156 157 167 56 40 111 40 162 145 141 154 154 171 40 150 157 160 145 40 157 156 145 40 144 141 171 40 171 157 165 40 143 141 156 40 163 164 157 160 40 144 157 151 156 147 40 144 162 165 147 163 54 40 141 156 144 40 147 145 164 40 171 157 165 162 40 154 151 146 145 40 164 157 147 145 164 150 145 162 56 40 124 162 165 154 171 40 111 40 167 151 163 150 40 171 157 165 40 164 150 145 40 142 145 163 164 40 
+  * [Getting Started01001001 00100000 01100100 01101111 00100000 01101100 01101111 01110110 01100101 00100000 01111001 01101111 01110101 00100000 01100100 01100001 01100100 00100000 01100001 01101110 01100100 00100000 01001001 00100000 01101000 01101111 01110000 01100101 00100000 01101111 01101110 01100101 00100000 01100100 01100001 01111001 00100000 01111001 01101111 01110101 00100000 01100011 01100001 01101110 00100000 01100111 01100101 01110100 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01110100 01101111 01100111 01100101 01110100 01101000 01100101 01110010 00101110 00100000 01000010 01110101 01110100 00100000 01110100 01101000 01100101 00100000 01110010 01100101 01100001 01110011 01101111 01101110 00100000 01001001 00100000 01110010 01100101 01100001 01100011 01101000 01100101 01100100 00100000 01101111 01110101 01110100 00100000 01101001 01110011 00100000 01100010 01100101 01100011 01100001 01110101 01110011 01100101 00100000 01001001 00100000 01110111 01100001 01101110 01110100 01100101 01100100 00100000 01110100 01101111 00100000 01101100 01100101 01110100 00100000 01111001 01101111 01110101 00100000 01101011 01101110 01101111 01110111 00100000 01001001 00100000 01100001 01101101 00100000 01110000 01110010 01100101 01100111 01101110 01100001 01101110 01110100 00100000 01100001 01101110 01100100 00100000 01101000 01100001 01110110 01101001 01101110 01100111 00100000 01100001 00100000 01100011 01101000 01101001 01101100 01100100 00101110 00100000 01001001 00100000 01101010 01110101 01110011 01110100 00100000 01100100 01101111 00100000 01101110 01101111 01110100 00100000 01110111 01100001 01101110 01110100 00100000 01111001 01101111 01110101 00100000 01110100 01101111 00100000 01110010 01100101 01100001 01100011 01101000 00100000 01101111 01110101 01110100 00100000 01110100 01101111 00100000 01110100 01101000 01100101 01101101 00101110 00100000 01001001 00100000 01100100 01101111 01101110 00100111 01110100 00100000 01100110 01100101 01100101 01101100 00100000 01100001 01110100 00100000 01110100 01101000 01101001 01110011 00100000 01110100 01101001 01101101 01100101 00100000 01111001 01101111 01110101 00100000 01100001 01110010 01100101 00100000 01100110 01101001 01110100 00100000 01110100 01101111 00100000 01100010 01100101 00100000 01101001 01101110 00100000 01110100 01101000 01100101 01101001 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01100001 01101110 01100100 00100000 01110100 01101000 01100001 01110100 00100000 01101101 01100001 01101011 01100101 01110011 00100000 01101101 01100101 00100000 01110011 01100001 01100100 00101110 00100000 01000010 01110101 01110100 00100000 01001001 00100000 01110111 01100001 01101110 01110100 01100101 01100100 00100000 01110100 01101111 00100000 01110000 01100101 01110010 01110011 01101111 01101110 01100001 01101100 01101100 01111001 00100000 01110010 01100101 01100001 01100011 01101000 00100000 01101111 01110101 01110100 00100000 01100001 01101110 01100100 00100000 01101100 01100101 01110100 00100000 01111001 01101111 01110101 00100000 01101011 01101110 01101111 01110111 00101110 00100000 01001001 00100000 01110010 01100101 01100001 01101100 01101100 01111001 00100000 01101000 01101111 01110000 01100101 00100000 01101111 01101110 01100101 00100000 01100100 01100001 01111001 00100000 01111001 01101111 01110101 00100000 01100011 01100001 01101110 00100000 01110011 01110100 01101111 01110000 00100000 01100100 01101111 01101001 01101110 01100111 00100000 01100100 01110010 01110101 01100111 01110011 00101100 00100000 01100001 01101110 01100100 00100000 01100111 01100101 01110100 00100000 01111001 01101111 01110101 01110010 00100000 01101100 01101001 01100110 01100101 00100000 01110100 01101111 01100111 01100101 01110100 01101000 01100101 01110010 00101110 00100000 01010100 01110010 01110101 01101100 01111001 00100000 01001001 00100000 01110111 01101001 01110011 01101000 00100000 01111001 01101111 01110101 00100000 01110100 01101000 01100101 00100000 01100010 01100101 01110011 01110100 00100000 ](#getting-started)
+  * [Upgrading](#upgrading)
+  * [API Documentation](#api-documentation)
+  * [RPC API](#rpc)
+  * [Installation](#installation)
+  * [Troubleshooting](#troubleshooting)
+  * [Usage](#usage)
+  * [Development](#development)
+  * [Deployment](#deployment)
+
+## Getting Started
+
+To use this API, you will need to run small local service which be responsible for managing your Blockchain.info wallet. Your application interacts with this service locally via HTTP API calls.
+
+Start by completing the following steps:
+
+  1. Follow the [installation instructions](#installation)
+  2. Start the server: `$ blockchain-wallet-service start --port 3000`
+  3. Reference the [documentation](#api-documentation) and start interacting with your wallet programmatically!
+0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+Note that `blockchain-wallet-service` is designed to be run locally on the same machine as your application and therefore will only accept connections from `localhost`. If you modify this service to accept external connections, be sure to add the appropriate firewall rules to prevent unauthorized use.
+
+An API code is required for wallet creation and higher request limits. For basic usage, no API code is required. Request an API code [Skip to content
+
+Sign up
+
+Coding-Enthusiast/FinderOute0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAFr
+
+Easy to use bitcoin recovery tool to fix damaged private key, mini-private key, address, BIP38 encrypted key, mnemonic (seed phrase), BIP-32 derivation path, Armory backups and 0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+ MIT License
+
+ 54 stars  32 forks
+
+ Star
+
+ Notifications
+
+Code
+
+Issues13
+
+Pull requests
+
+Actions
+
+Projects
+
+Wiki
+
+Security
+
+Insights
+
+ master 
+
+Go to file
+0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+Latest commit
+
+￼
+
+Coding-Enthusiast
+
+…
+
+7 days ago
+
+Git stats
+
+File0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAFs
+
+Type
+
+Name
+
+Commit time
+
+Doc/Images
+
+18 days ago
+
+Doc/Images
+
+Src
+
+7 days ago
+
+Src
+
+.gitattributes
+
+17 months ago
+
+.gitattributes
+
+.gitignore
+
+17 months ago
+
+.gitignore
+
+.travis.yml
+
+6 months ago
+
+.travis.yml
+
+CHANGELOG.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+18 days ago
+
+CHANGELOG.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+License
+
+17 months ago
+
+License
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+18 days ago
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+￼ ￼ ￼{ ￼
+
+The FinderOuter
+
+The FinderOuter is a bitcoin recovery tool that focuses on making the recovery process easy for everyone with any level of technical knowledge. It uses a simple user interface with a list of recovery options. Each option has an explanation and many hints helping user figure out what is needed. It always consist of filling some text boxes and selecting some options and finally clicking the Find button. This eliminates the need to read long guide pages on how to use the application. Each option also has some example cases that can show a simple preview of how each option should be filled for different cases.
+
+FinderOuter is specialized for maximum efficiency, each recovery option and their parts are written from scratch and all those parts down to the basic cryptography used (such as SHA, ECC,...) are specialized for that operation.
+
+Thanks to .Net core and AvaloniaUI FinderOuter can run on all operating systems.
+This project is written fully in C# and is 100% open source and will always remain free to use. You can make a donation if you found this tool useful.
+FinderOuter is still in beta and under development. New features are slowly added and everything is optimized.
+Contribution is always welcome. Please report any bugs you find or any improvement suggestions you have by creating a new issue.
+
+Quick guide
+
+Select an option from this list depending on what you want to recover
+
+Read the instructions
+
+Fill in the required information
+
+Select appropriate available options according to the entered data
+
+Some parts have tooltips for extra explanation
+
+Click Find button
+
+See the progress and the reports
+
+Progressbar showing the progress percentage shows up for options that use multi-threading (take more than a couple of seconds to complete)
+
+All recovery options come with examples, click this button repeatedly to cycle through them
+
+Some parts have a help button that brings up the respective FinderOuter knowledge base page
+
+￼
+
+Available options
+
+1. Message signature verification
+
+User can enter a message signature here to verify it. In case there is a problem with the message (except being an actually invalid signature), the code can search to find the common issues that some signing tools have and fix them.
+
+2. Missing Base-58 characters
+
+This option can be used to recover any base-58 encoded string with a checksum that is missing some characters. For example a damaged paper wallet where some characters are erased/unreadable. The position of missing characters must be known.
+It works for (1) WIFs (Base-58 encoded private key) (2) Addresses (Base-58 encoded P2PKH or P2SH address) (3) BIP-38 (Base-58 encoded encrypted private key).
+
+There is also a "special case" where a compressed private key is missing 3 characters at unknown positions.
+
+3. Missing Base-16 characters
+
+This option is similar to previous feature but works for base-16 (hexadecimal) private keys. Since there is no checksum in this encoding it requires an additional input to check each permutation against. It accepts any address type and public keys. This option is slower in comparison because it uses ECC and that is not yet optimized.
+
+4. Missing mini-privatekey characters
+
+This option is similar to 2 and 3 but works for mini-privatekeys (eg. SzavMBLoXU6kDrqtUVmffv). It requires the corresponding address or public key of the minikey to check each possible key against, as a result it is also slower since it depends on ECC and has 2 additional hashes.
+
+5. Missing mnomonic (seed) words
+
+This option works for both BIP-39 and Electrum mnemonics that have some missing words. It requires knowing one child (private/public) key or address created from that seed and the exact derivation path of it.
+
+6. Missing BIP-32 derivation path
+
+This option could be used to find derivation path of a child key (private key, public key or the address) by having the mnemonic or the extended master keys (xprv or xpub). It only checks a hard-coded list of popular derivation paths.
+
+7. Missing characters in Armory recovery phrase
+
+This option is used to recover Armory paper backups (containing 2 or 4 lines of 36 characters in Base-16 with custom char-set) that are missing some of their characters. Since the last 4 characters of each line is the checksum this option can be very fast (1 trillion keys/sec) if the checksum is available or extremely slow (100 key/sec) if not.
+
+8. Missing string encoding
+
+This option could be used to determine the encoding of an arbitrary text. It currently supports Base-16, Base-43, Base-58, Base-58 with checksum and Base-64. All inputs will be converted to hexadecimal.
+
+Future plans
+
+Optimization is always at the top of the to-do list
+
+BIP-39 passphrase (extention words) recovery
+
+File password recovery (user knows some parts of his password but not all and has the encrypted wallet file)
+
+BIP-38 password recovery
+
+Converting versioned WIFs to regular WIFs (BIP-178 and early vertion 3 Electrum wallets)
+
+SIMD code
+
+GPU support
+
+Getting started
+
+Step 1: Preparation
+
+You can ignore this step at your own risk and skip to step 2.
+Since this project deals with sensative information such as private keys, mnemonics, etc. the safest approach is to run it on a clean and air-gapped computer. Easiest way of acheiving that is using a live Linux:
+
+Download Ubuntu or any other Linux OS (all FinderOuter releases are tested on 64-bit Ubuntu 20.04 before being published)
+
+Verify Ubuntu's iso (link)
+
+Follow step 2 while you are still online
+
+Disconnect network cable (to remain offline)
+
+Burn that ISO on a DVD or could be a USB disk (link)
+
+Boot into Ubuntu to run FinderOuter
+
+After you are done, shut down Ubuntu and remove the medium used in step 5
+
+Step 2: Download and build
+
+If you cannot or do not want to build you can go to releases where the ready to run binaires are found for 3 different x64 operating systems: Windows, Linux and MacOS. the other two files named Source code.zip and Source code.tar.gz are the project's source code that GitHub automatically adds at that release version's commit.
+
+To build FinderOuter:
+If you have Visual Studio you can clone this repository and build the included solution file called FinderOuter.sln.
+Building is also possible through these steps using command line:
+
+Get Git: https://git-scm.com/downloads
+
+Get .NET 5.0 SDK: https://dotnet.microsoft.com/download (see TargetFramework in FinderOuter.csproj for the required .net version in case readme wasn't updated)
+
+Clone FinderOuter git clone https://github.com/Coding-Enthusiast/FinderOuter.git
+
+Build using dotnet publish -c Release -r <RID> --self-contained true (replace <RID> with RID of the operating system you want to build for. e.g. win-x64 for x64 Windows or linux-arm64 for Linux x64 ARM)
+
+Important notes:
+
+Remember to build the project using release configuration to benefit from compiler optimizations.
+
+.Net applications can be published as self contained which will increase the size of the binray by including the required framework in it. That helps running the application on any computer (like the live Linux explained above) without needing to install .Net separately. The size can be reduced by selecting the Trim unused assemblies option.
+
+This project can be built on and used on any operating system, use -r|--runtime <RUNTIME_IDENTIFIER> to specify OS with the correct RID.
+
+Step 3: Run
+
+If you have compiled FinderOuter as SCD or downloaded the provided binaries there is no need to download .Net Core, otherwise it has to be downloaded and installed on the system that needs to run FinderOuter.
+FinderOuter can be run by using console/terminal command dotnet FinderOuter.dll for Linux, dotnet FinderOuter on MacOs and running the FinderOuter.exe on Windows.
+Linux may require providing persmissions first (more info):
+
+Provide execute permissions chmod 777 ./FinderOuter
+
+Execute application ./FinderOuter
+
+Contributing
+
+Please first check out conventions for information about coding styles, versioning, making pull requests, and more.
+
+Donations
+
+If You found this tool helpful consider making a donation:
+Legacy address: 1Q9swRQuwhTtjZZ2yguFWk7m7pszknkWyk
+SegWit address: bc1q3n5t9gv40ayq68nwf0yth49dt5c799wpld376s
+
+Releases 13
+
+Version 0.10.0Latest
+
+18 days ago
+
++ 12 releases
+
+Languages
+
+C#100.0%
+
+© 2021 GitHub, Inc.
+
+Terms
+
+Privacy
+
+Security
+
+Status
+
+Docs
+
+Contact GitHub
+
+Pricing
+
+API
+
+Training
+
+Blog
+
+About
+
+
+](https://blockchain.info/api/api_create_code).
+
+## Upgrading
+
+If you already have an application that uses [Blockchain.info's Wallet API](https://blockchain.info/api/blockchain_wallet_api), you will need to complete the steps in the Getting Started section above and then, in your application code, replace calls to `blockchain.info/merchant/...` with `localhost:<port>/merchant/...`.
+
+## API Documentation
+
+View the [original documentation](https://blockchain.info/api/blockchain_wallet_api).
+
+All endpoints present in the API documentation above are supported in Blockchain Wallet API V2. The differences between two are:
+
+  * The "consolidate addresses" endpoint has been omitted
+
+All endpoints can be called with `GET` or `POST`, and can only be accessed from `localhost`.
+
+### Creating a new Blockchain Wallet
+
+Endpoint: `/api/v2/create`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (required)
+  * `priv` - private key to import into wallet as first address (optional)
+  * `label` - label to give to the first address generated in the wallet (optional)
+  * `email` - email to associate with the newly created wallet (optional)
+
+Sample Response:
+
+```json
+{
+  "guid": "05f290be-dbef-4636-a809-868893c51711",
+  "address": "13R9dBgKwBP29JKo11zhfi74YuBsMxJ4qY",
+  "label": "Main address"
+}
+```
+
+### Make Payment
+
+Endpoint: `/merchant/:guid/payment`
+
+Query Parameters:
+
+  * `to` - bitcoin address to send to (required)
+  * `amount` - amount **in satoshi** to send (required)
+  * `password` - main wallet password (required)
+  * `second_password` - second wallet password (required, only if second password is enabled)
+  * `api_code` - blockchain.info wallet api code (optional)
+  * `from` - bitcoin address or account index to send from (optional)
+  * `fee` - specify transaction fee **in satoshi**
+  * `fee_per_byte` - specify transaction fee-per-byte **in satoshi**
+
+*It is recommended that transaction fees are specified using the `fee_per_byte` parameter, which will compute your final fee based on the size of the transaction. You can also set a static fee using the `fee` parameter, but doing so may result in a low fee-per-byte, leading to longer confirmation times.*
+
+Sample Response:
+
+```json
+{
+  "to" : ["1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq"],
+  "from": ["17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY"],
+  "amounts": [200000],
+  "fee": 1000,
+  "txid": "f322d01ad784e5deeb25464a5781c3b20971c1863679ca506e702e3e33c18e9c",
+  "success": true
+}
+```
+
+### Send to Many
+
+Endpoint: `/merchant/:guid/sendmany`
+
+Query Parameters:
+
+  * `recipients` - a *URI encoded* [JSON object](http://json.org/example.html), with bitcoin addresses as keys and the **satoshi** amounts as values (required, see example below)
+  * `password` - main wallet password (required)
+  * `second_password` - second wallet password (required, only if second password is enabled)
+  * `api_code` - blockchain.info wallet api code (optional)
+  * `from` - bitcoin address or account index to send from (optional)
+  * `fee` - specify transaction fee **in satoshi**
+  * `fee_per_byte` - specify transaction fee-per-byte **in satoshi**
+
+*It is recommended that transaction fees are specified using the `fee_per_byte` parameter, which will compute your final fee based on the size of the transaction. You can also set a static fee using the `fee` parameter, but doing so may result in a low fee-per-byte, leading to longer confirmation times.*
+
+URI Encoding a JSON object in JavaScript:
+
+```js
+var myObject = { address1: 10000, address2: 50000 };
+var myJSONString = JSON.stringify(myObject);
+// `encodeURIComponent` is a global function
+var myURIEncodedJSONString = encodeURIComponent(myJSONString);
+// use `myURIEncodedJSONString` as the `recipients` parameter
+```
+
+Sample Response:
+
+```json
+{
+  "to" : ["1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq", "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy"],
+  "from": ["17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY"],
+  "amounts": [16000, 5400030],
+  "fee": 2000,
+  "txid": "f322d01ad784e5deeb25464a5781c3b20971c1863679ca506e702e3e33c18e9c",
+  "success": true
+}
+```
+
+### Fetch Wallet Balance
+
+Endpoint: `/merchant/:guid/balance`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (required)
+
+Sample Response:
+
+```json
+{ "balance": 10000 }
+```
+
+### Enable HD Functionality
+
+Endpoint: `/merchant/:guid/enableHD`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+This will upgrade a wallet to an HD (Hierarchical Deterministic) Wallet, which allows the use of accounts. See [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) for more information on HD wallets and accounts.
+
+### List Active HD Accounts
+
+Endpoint: `/merchant/:guid/accounts`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### List HD xPubs
+
+Endpoint: `/merchant/:guid/accounts/xpubs`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Create New HD Account
+
+Endpoint: `/merchant/:guid/accounts/create`
+
+Query Parameters:
+
+  * `label` - label to assign to the newly created account (optional)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Get Single HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Get HD Account Receiving Address
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/receiveAddress`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Check HD Account Balance
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/balance`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Archive HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/archive`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Unarchive HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/unarchive`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### List Addresses (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/list`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{
+  "addresses": [
+    {
+        "balance": 79434360,
+        "address": "1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq",
+        "label": "My Wallet",
+        "total_received": 453300048335
+    },
+    {
+        "balance": 0,
+        "address": "17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY",
+        "total_received": 0
+    }
+  ]
+}
+```
+
+### Fetch Address Balance (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/address_balance`
+
+Query Parameters:
+
+  * `address` - address to fetch balance for (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Note: unlike the hosted API, there is no option of a `confirmations` parameter for specifying minimum confirmations.
+
+Sample Response:
+
+```json
+{ "balance": 129043, "address": "19r7jAbPDtfTKQ9VJpvDzFFxCjUJFKesVZ", "total_received": 53645423 }
+```
+
+### Generate Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/new_address`PayPal.digital/me/monzturrmathers/CSV/md/php/johannhulstrom@hotmail.com/bitcoin/satoshilabs/genesis/whitepaperaward42/blockchain/ethe/ripple/TRON/watch/explorer/0/
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `label` - label to give to the address (optional)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "address" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" , "label":  "My New Address" }
+```
+
+### Archive Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/archive_address`
+
+Query Parameters:
+
+  * `address` - address to archive (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "archived" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" }
+```
+
+### Unarchive Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/unarchive_address`
+
+Query Parameters:
+
+  * `address` - address to unarchive (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "active" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" }
+```
+
+## RPC
+
+Bitcoind compatible RPC API. Full documentation available [here](https://blockchain.info/api/json_rpc_api).
+
+Starting the RPC server:
+
+```
+$ blockchain-wallet-service start-rpc [options]
+```
+
+View additional options and instructions under [Usage](#usage).
+
+Differences from server API:
+
+  * Option `-rpcssl` is not supported
+  * Method `listsinceblock` is not supported
+  * Param `minConfimations` is not supported for methods `listreceivedbyaccount` and `listreceivedbyaddress`
+  * Param `minimumConfirmations` is not supported for method `getbalance`
+  * Param `confirmations` is not supported for method `listaccounts`
+  * Responses representing transactions have a different format
+
+## Installation
+
+[`nodejs`](https://nodejs.org) and [`npm`](https://npmjs.com) are required to install and use this API service. Installation:
+
+```sh
+$ npm install -g blockchain-wallet-service
+```
+
+For the best stability and performance, make sure you are always using the latest version.
+
+To check your version:
+
+```sh
+$ blockchain-wallet-service -V
+```
+
+To update to the latest version:
+
+```sh
+$ npm update -g blockchain-wallet-service
+```
+
+Requires:
+
+  * node >= 6.0.0
+  * npm >= 3.0.0
+
+If you have issues with the installation process, see the troubleshooting section below.
+
+## Troubleshooting
+
+Installation errors:
+
+  * If you are getting `EACCESS` or permissions-related errors, it might be necessary to run the install as root, using the `sudo` command.
+
+  * If you are getting errors concerning node-gyp or python, install with `npm install --no-optional`
+
+Startup errors:
+
+  * If startup fails with `/usr/bin/env: node: No such file or directory`, it's possible node is not installed, or was installed with a different name (Ubuntu, for example, installs node as nodejs). If node was installed with a different name, create a symlink to your node binary: `sudo ln -s /usr/bin/nodejs /usr/bin/node`, or install node through [Node Version Manager](https://github.com/creationix/nvm).
+
+Runtime errors:
+
+  * If you are seeing a `TypeError` claiming that an object `has no method 'compare'`, it is because you are on a version of Node older than 0.12, before the `compare` method was added to Buffers. Try upgrading to at least Node version 0.12.
+
+  * If you are getting wallet decryption errors despite having correct credentials, then it's possible that you do not have Java installed, which is required by a dependency of the my-wallet-v3 module. Not having Java installed during the `npm install` process can result in the inability to decrypt wallets. Download the JDK from [here for Mac](https://support.apple.com/kb/DL1572) or by running `apt-get install default-jdk` on debian-based linux systems.
+
+Timeout Errors:
+
+  * If you are getting a timeout response, additional authorization from your blockchain wallet may be required. This can occur when using an unrecognized browser or IP address. An email authorizing the API access attempt will be sent to the registered user that will require action in order to authorize future requests.
+
+If this section did not help, please open a github issue or visit our [support center](https://blockchain.zendesk.com).
+
+## Usage
+
+After installing the service, the command `blockchain-wallet-service` will be available for use.
+
+### Options
+
+  * `-h, --help` - output usage information
+  * `-V, --version` - output the version number
+  * `-c, --cwd` - use the current directory as the wallet service module (development only)
+
+### Commands
+
+#### start
+
+Usage: `blockchain-wallet-service start [options]`
+
+This command will start the service, making Blockchain Wallet API V2 available on a specified port.
+
+Command options:
+
+  * `-h, --help` - output usage information
+  * `-p, --port` - port number to run the server on (defaults to `3000`)
+  * `-b, --bind` - bind to a specific ip (defaults to `127.0.0.1`, note that binding to an ip other than this can lead to security vulnerabilities)
+  * `--ssl-key` - the path to your ssl key (optional)
+  * `--ssl-cert` - the path to your ssl certificate (optional)
+
+To open the service to all incoming connections, bind to `0.0.0.0`.
+
+#### start-rpc
+
+Usage: `blockchain-wallet-service start-rpc [options]`
+
+This command will start the JSON RPC server.
+
+Options:
+
+  * `-k, --key` - api code to use for server requests (required option)
+  * `-p, --rpcport` - rpc server port (default: 8000)
+  * `-b, --bind` - bind to a specific ip (defaults to `127.0.0.1`, note that binding to an ip other than this can lead to security vulnerabilities)
+
+Get an API code [here](https://blockchain.info/api/api_create_code).
+
+### Examples
+
+To start the Wallet API service on port 3000:
+
+```sh
+$ blockchain-wallet-service start --port 3000
+```
+
+## Development
+
+  1. Clone this repo
+  2. Run `yarn --ignore-engines`
+  3. Run `yarn start`
+  4. Dev server is now running on port 3000
+
+If you are developing `blockchain-wallet-client` alongside this module, it is useful to create a symlink to `my-wallet-v3`:
+
+```sh
+$ ln -s ../path/to/my-wallet-v3 node_modules/blockchain-wallet-client
+```
+
+### Testing
+
+```sh
+$ yarn test
+```
+
+### Configuration
+
+Optional parameters can be configured in a `.env` file:
+
+  * `PORT` - port number for running dev server (default: `3000`)
+  * `BIND` - ip address to bind the service to (default: `127.0.0.1`)
+
+## Deployment
+
+If you want to use blockchain-wallet-service in your UNIX production server, you just have to run:
+
+```sh
+$ nohup blockchain-wallet-service start --port 3000 &
+```฿3,655.32 btc*
+$365500000000.32 USD*
+Dw
+
+# Blockchain Wallet API V2
+
+Programmatically interface with your Blockchain.info wallet.
+
+## Contents
+
+  * [Getting Started](#getting-started)
+  * [Upgrading](#upgrading)
+  * [API Documentation](#api-documentation)
+  * [RPC API](#rpc)
+  * [Installation](#installation)
+  * [Troubleshooting](#troubleshooting)
+  * [Usage](#usage)
+  * [Development](#development)
+  * [Deployment](#deployment)
+
+## Getting Started
+
+To use this API, you will need to run small local service which be responsible for managing your Blockchain.info wallet. Your application interacts with this service locally via HTTP API calls.
+
+Start by completing the following steps:
+
+  1. Follow the [installation instructions](#installation)
+  2. Start the server: `$ blockchain-wallet-service start --port 3000`
+  3. Reference the [documentation](#api-documentation) and start interacting with your wallet programmatically!
+0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+Note that `blockchain-wallet-service` is designed to be run locally on the same machine as your application and therefore will only accept connections from `localhost`. If you modify this service to accept external connections, be sure to add the appropriate firewall rules to prevent unauthorized use.
+
+An API code is required for wallet creation and higher request limits. For basic usage, no API code is required. Request an API code [Skip to content
+
+Sign up
+
+Coding-Enthusiast/FinderOute0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAFr
+
+Easy to use bitcoin recovery tool to fix damaged private key, mini-private key, address, BIP38 encrypted key, mnemonic (seed phrase), BIP-32 derivation path, Armory backups and 0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+ MIT License
+
+ 54 stars  32 forks
+
+ Star
+
+ Notifications
+
+Code
+
+Issues13
+
+Pull requests
+
+Actions
+
+Projects
+
+Wiki
+
+Security
+
+Insights
+
+ master 
+
+Go to file
+0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+Latest commit
+
+￼
+
+Coding-Enthusiast
+
+…
+
+7 days ago
+
+Git stats
+
+File0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAFs
+
+Type
+
+Name
+
+Commit time
+
+Doc/Images
+
+18 days ago
+
+Doc/Images
+
+Src
+
+7 days ago
+
+Src
+
+.gitattributes
+
+17 months ago
+
+.gitattributes
+
+.gitignore
+
+17 months ago
+
+.gitignore
+
+.travis.yml
+
+6 months ago
+
+.travis.yml
+
+CHANGELOG.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+18 days ago
+
+CHANGELOG.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+License
+
+17 months ago
+
+License
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+18 days ago
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+README.md0x747A279427Fdf9eCa6290Fc076E6A38f63cddeAF
+
+￼ ￼ ￼{ ￼
+
+The FinderOuter
+
+The FinderOuter is a bitcoin recovery tool that focuses on making the recovery process easy for everyone with any level of technical knowledge. It uses a simple user interface with a list of recovery options. Each option has an explanation and many hints helping user figure out what is needed. It always consist of filling some text boxes and selecting some options and finally clicking the Find button. This eliminates the need to read long guide pages on how to use the application. Each option also has some example cases that can show a simple preview of how each option should be filled for different cases.
+
+FinderOuter is specialized for maximum efficiency, each recovery option and their parts are written from scratch and all those parts down to the basic cryptography used (such as SHA, ECC,...) are specialized for that operation.
+
+Thanks to .Net core and AvaloniaUI FinderOuter can run on all operating systems.
+This project is written fully in C# and is 100% open source and will always remain free to use. You can make a donation if you found this tool useful.
+FinderOuter is still in beta and under development. New features are slowly added and everything is optimized.
+Contribution is always welcome. Please report any bugs you find or any improvement suggestions you have by creating a new issue.
+
+Quick guide
+
+Select an option from this list depending on what you want to recover
+
+Read the instructions
+
+Fill in the required information
+
+Select appropriate available options according to the entered data
+
+Some parts have tooltips for extra explanation
+
+Click Find button
+
+See the progress and the reports
+
+Progressbar showing the progress percentage shows up for options that use multi-threading (take more than a couple of seconds to complete)
+
+All recovery options come with examples, click this button repeatedly to cycle through them
+
+Some parts have a help button that brings up the respective FinderOuter knowledge base page
+
+￼
+
+Available options
+
+1. Message signature verification
+
+User can enter a message signature here to verify it. In case there is a problem with the message (except being an actually invalid signature), the code can search to find the common issues that some signing tools have and fix them.
+
+2. Missing Base-58 characters
+
+This option can be used to recover any base-58 encoded string with a checksum that is missing some characters. For example a damaged paper wallet where some characters are erased/unreadable. The position of missing characters must be known.
+It works for (1) WIFs (Base-58 encoded private key) (2) Addresses (Base-58 encoded P2PKH or P2SH address) (3) BIP-38 (Base-58 encoded encrypted private key).
+
+There is also a "special case" where a compressed private key is missing 3 characters at unknown positions.
+
+3. Missing Base-16 characters
+
+This option is similar to previous feature but works for base-16 (hexadecimal) private keys. Since there is no checksum in this encoding it requires an additional input to check each permutation against. It accepts any address type and public keys. This option is slower in comparison because it uses ECC and that is not yet optimized.
+
+4. Missing mini-privatekey characters
+
+This option is similar to 2 and 3 but works for mini-privatekeys (eg. SzavMBLoXU6kDrqtUVmffv). It requires the corresponding address or public key of the minikey to check each possible key against, as a result it is also slower since it depends on ECC and has 2 additional hashes.
+
+5. Missing mnomonic (seed) words
+
+This option works for both BIP-39 and Electrum mnemonics that have some missing words. It requires knowing one child (private/public) key or address created from that seed and the exact derivation path of it.
+
+6. Missing BIP-32 derivation path
+
+This option could be used to find derivation path of a child key (private key, public key or the address) by having the mnemonic or the extended master keys (xprv or xpub). It only checks a hard-coded list of popular derivation paths.
+
+7. Missing characters in Armory recovery phrase
+
+This option is used to recover Armory paper backups (containing 2 or 4 lines of 36 characters in Base-16 with custom char-set) that are missing some of their characters. Since the last 4 characters of each line is the checksum this option can be very fast (1 trillion keys/sec) if the checksum is available or extremely slow (100 key/sec) if not.
+
+8. Missing string encoding
+
+This option could be used to determine the encoding of an arbitrary text. It currently supports Base-16, Base-43, Base-58, Base-58 with checksum and Base-64. All inputs will be converted to hexadecimal.
+
+Future plans
+
+Optimization is always at the top of the to-do list
+
+BIP-39 passphrase (extention words) recovery
+
+File password recovery (user knows some parts of his password but not all and has the encrypted wallet file)
+
+BIP-38 password recovery
+
+Converting versioned WIFs to regular WIFs (BIP-178 and early vertion 3 Electrum wallets)
+
+SIMD code
+
+GPU support
+
+Getting started
+
+Step 1: Preparation
+
+You can ignore this step at your own risk and skip to step 2.
+Since this project deals with sensative information such as private keys, mnemonics, etc. the safest approach is to run it on a clean and air-gapped computer. Easiest way of acheiving that is using a live Linux:
+
+Download Ubuntu or any other Linux OS (all FinderOuter releases are tested on 64-bit Ubuntu 20.04 before being published)
+
+Verify Ubuntu's iso (link)
+
+Follow step 2 while you are still online
+
+Disconnect network cable (to remain offline)
+
+Burn that ISO on a DVD or could be a USB disk (link)
+
+Boot into Ubuntu to run FinderOuter
+
+After you are done, shut down Ubuntu and remove the medium used in step 5
+
+Step 2: Download and build
+
+If you cannot or do not want to build you can go to releases where the ready to run binaires are found for 3 different x64 operating systems: Windows, Linux and MacOS. the other two files named Source code.zip and Source code.tar.gz are the project's source code that GitHub automatically adds at that release version's commit.
+
+To build FinderOuter:
+If you have Visual Studio you can clone this repository and build the included solution file called FinderOuter.sln.
+Building is also possible through these steps using command line:
+
+Get Git: https://git-scm.com/downloads
+
+Get .NET 5.0 SDK: https://dotnet.microsoft.com/download (see TargetFramework in FinderOuter.csproj for the required .net version in case readme wasn't updated)
+
+Clone FinderOuter git clone https://github.com/Coding-Enthusiast/FinderOuter.git
+
+Build using dotnet publish -c Release -r <RID> --self-contained true (replace <RID> with RID of the operating system you want to build for. e.g. win-x64 for x64 Windows or linux-arm64 for Linux x64 ARM)
+
+Important notes:
+
+Remember to build the project using release configuration to benefit from compiler optimizations.
+
+.Net applications can be published as self contained which will increase the size of the binray by including the required framework in it. That helps running the application on any computer (like the live Linux explained above) without needing to install .Net separately. The size can be reduced by selecting the Trim unused assemblies option.
+
+This project can be built on and used on any operating system, use -r|--runtime <RUNTIME_IDENTIFIER> to specify OS with the correct RID.
+
+Step 3: Run
+
+If you have compiled FinderOuter as SCD or downloaded the provided binaries there is no need to download .Net Core, otherwise it has to be downloaded and installed on the system that needs to run FinderOuter.
+FinderOuter can be run by using console/terminal command dotnet FinderOuter.dll for Linux, dotnet FinderOuter on MacOs and running the FinderOuter.exe on Windows.
+Linux may require providing persmissions first (more info):
+
+Provide execute permissions chmod 777 ./FinderOuter
+
+Execute application ./FinderOuter
+
+Contributing
+
+Please first check out conventions for information about coding styles, versioning, making pull requests, and more.
+
+Donations
+
+If You found this tool helpful consider making a donation:
+Legacy address: 1Q9swRQuwhTtjZZ2yguFWk7m7pszknkWyk
+SegWit address: bc1q3n5t9gv40ayq68nwf0yth49dt5c799wpld376s
+
+Releases 13
+
+Version 0.10.0Latest
+
+18 days ago
+
++ 12 releases
+
+Languages
+
+C#100.0%
+
+© 2021 GitHub, Inc.
+
+Terms
+
+Privacy
+
+Security
+
+Status
+
+Docs
+
+Contact GitHub
+
+Pricing
+
+API
+
+Training
+
+Blog
+
+About
+
+
+](https://blockchain.info/api/api_create_code).
+
+## Upgrading
+
+If you already have an application that uses [Blockchain.info's Wallet API](https://blockchain.info/api/blockchain_wallet_api), you will need to complete the steps in the Getting Started section above and then, in your application code, replace calls to `blockchain.info/merchant/...` with `localhost:<port>/merchant/...`.
+
+## API Documentation
+
+View the [original documentation](https://blockchain.info/api/blockchain_wallet_api).
+
+All endpoints present in the API documentation above are supported in Blockchain Wallet API V2. The differences between two are:
+
+  * The "consolidate addresses" endpoint has been omitted
+
+All endpoints can be called with `GET` or `POST`, and can only be accessed from `localhost`.
+
+### Creating a new Blockchain Wallet
+
+Endpoint: `/api/v2/create`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (required)
+  * `priv` - private key to import into wallet as first address (optional)
+  * `label` - label to give to the first address generated in the wallet (optional)
+  * `email` - email to associate with the newly created wallet (optional)
+
+Sample Response:
+
+```json
+{
+  "guid": "05f290be-dbef-4636-a809-868893c51711",
+  "address": "13R9dBgKwBP29JKo11zhfi74YuBsMxJ4qY",
+  "label": "Main address"
+}
+```
+
+### Make Payment
+
+Endpoint: `/merchant/:guid/payment`
+
+Query Parameters:
+
+  * `to` - bitcoin address to send to (required)
+  * `amount` - amount **in satoshi** to send (required)
+  * `password` - main wallet password (required)
+  * `second_password` - second wallet password (required, only if second password is enabled)
+  * `api_code` - blockchain.info wallet api code (optional)
+  * `from` - bitcoin address or account index to send from (optional)
+  * `fee` - specify transaction fee **in satoshi**
+  * `fee_per_byte` - specify transaction fee-per-byte **in satoshi**
+
+*It is recommended that transaction fees are specified using the `fee_per_byte` parameter, which will compute your final fee based on the size of the transaction. You can also set a static fee using the `fee` parameter, but doing so may result in a low fee-per-byte, leading to longer confirmation times.*
+
+Sample Response:
+
+```json
+{
+  "to" : ["1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq"],
+  "from": ["17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY"],
+  "amounts": [200000],
+  "fee": 1000,
+  "txid": "f322d01ad784e5deeb25464a5781c3b20971c1863679ca506e702e3e33c18e9c",
+  "success": true
+}
+```
+
+### Send to Many
+
+Endpoint: `/merchant/:guid/sendmany`
+
+Query Parameters:
+
+  * `recipients` - a *URI encoded* [JSON object](http://json.org/example.html), with bitcoin addresses as keys and the **satoshi** amounts as values (required, see example below)
+  * `password` - main wallet password (required)
+  * `second_password` - second wallet password (required, only if second password is enabled)
+  * `api_code` - blockchain.info wallet api code (optional)
+  * `from` - bitcoin address or account index to send from (optional)
+  * `fee` - specify transaction fee **in satoshi**
+  * `fee_per_byte` - specify transaction fee-per-byte **in satoshi**
+
+*It is recommended that transaction fees are specified using the `fee_per_byte` parameter, which will compute your final fee based on the size of the transaction. You can also set a static fee using the `fee` parameter, but doing so may result in a low fee-per-byte, leading to longer confirmation times.*
+
+URI Encoding a JSON object in JavaScript:
+
+```js
+var myObject = { address1: 10000, address2: 50000 };
+var myJSONString = JSON.stringify(myObject);
+// `encodeURIComponent` is a global function
+var myURIEncodedJSONString = encodeURIComponent(myJSONString);
+// use `myURIEncodedJSONString` as the `recipients` parameter
+```
+
+Sample Response:
+
+```json
+{
+  "to" : ["1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq", "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy"],
+  "from": ["17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY"],
+  "amounts": [16000, 5400030],
+  "fee": 2000,
+  "txid": "f322d01ad784e5deeb25464a5781c3b20971c1863679ca506e702e3e33c18e9c",
+  "success": true
+}
+```
+
+### Fetch Wallet Balance
+
+Endpoint: `/merchant/:guid/balance`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (required)
+
+Sample Response:
+
+```json
+{ "balance": 10000 }
+```
+
+### Enable HD Functionality
+
+Endpoint: `/merchant/:guid/enableHD`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+This will upgrade a wallet to an HD (Hierarchical Deterministic) Wallet, which allows the use of accounts. See [BIP32](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) for more information on HD wallets and accounts.
+
+### List Active HD Accounts
+
+Endpoint: `/merchant/:guid/accounts`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### List HD xPubs
+
+Endpoint: `/merchant/:guid/accounts/xpubs`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Create New HD Account
+
+Endpoint: `/merchant/:guid/accounts/create`
+
+Query Parameters:
+
+  * `label` - label to assign to the newly created account (optional)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Get Single HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Get HD Account Receiving Address
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/receiveAddress`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Check HD Account Balance
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/balance`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Archive HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/archive`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### Unarchive HD Account
+
+Endpoint: `/merchant/:guid/accounts/:xpub_or_index/unarchive`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+### List Addresses (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/list`
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{
+  "addresses": [
+    {
+        "balance": 79434360,
+        "address": "1A8JiWcwvpY7tAopUkSnGuEYHmzGYfZPiq",
+        "label": "My Wallet",
+        "total_received": 453300048335
+    },
+    {
+        "balance": 0,
+        "address": "17p49XUC2fw4Fn53WjZqYAm4APKqhNPEkY",
+        "total_received": 0
+    }
+  ]
+}
+```
+
+### Fetch Address Balance (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/address_balance`
+
+Query Parameters:
+
+  * `address` - address to fetch balance for (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Note: unlike the hosted API, there is no option of a `confirmations` parameter for specifying minimum confirmations.
+
+Sample Response:
+
+```json
+{ "balance": 129043, "address": "19r7jAbPDtfTKQ9VJpvDzFFxCjUJFKesVZ", "total_received": 53645423 }
+```
+
+### Generate Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/new_address`PayPal.digital/me/monzturrmathers/CSV/md/php/johannhulstrom@hotmail.com/bitcoin/satoshilabs/genesis/whitepaperaward42/blockchain/ethe/ripple/TRON/watch/explorer/0/
+
+Query Parameters:
+
+  * `password` - main wallet password (required)
+  * `label` - label to give to the address (optional)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "address" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" , "label":  "My New Address" }
+```
+
+### Archive Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/archive_address`
+
+Query Parameters:
+
+  * `address` - address to archive (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "archived" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" }
+```
+
+### Unarchive Address (deprecated, use the HD API instead)
+
+Endpoint: `/merchant/:guid/unarchive_address`
+
+Query Parameters:
+
+  * `address` - address to unarchive (required)
+  * `password` - main wallet password (required)
+  * `api_code` - blockchain.info wallet api code (optional)
+
+Sample Response:
+
+```json
+{ "active" : "18fyqiZzndTxdVo7g9ouRogB4uFj86JJiy" }
+```
+
+## RPC
+
+Bitcoind compatible RPC API. Full documentation available [here](https://blockchain.info/api/json_rpc_api).
+
+Starting the RPC server:
+
+```
+$ blockchain-wallet-service start-rpc [options]
+```
+
+View additional options and instructions under [Usage](#usage).
+
+Differences from server API:
+
+  * Option `-rpcssl` is not supported
+  * Method `listsinceblock` is not supported
+  * Param `minConfimations` is not supported for methods `listreceivedbyaccount` and `listreceivedbyaddress`
+  * Param `minimumConfirmations` is not supported for method `getbalance`
+  * Param `confirmations` is not supported for method `listaccounts`
+  * Responses representing transactions have a different format
+
+## Installation
+
+[`nodejs`](https://nodejs.org) and [`npm`](https://npmjs.com) are required to install and use this API service. Installation:
+
+```sh
+$ npm install -g blockchain-wallet-service
+```
+
+For the best stability and performance, make sure you are always using the latest version.
+
+To check your version:
+
+```sh
+$ blockchain-wallet-service -V
+```
+
+To update to the latest version:
+
+```sh
+$ npm update -g blockchain-wallet-service
+```
+
+Requires:
+
+  * node >= 6.0.0
+  * npm >= 3.0.0
+
+If you have issues with the installation process, see the troubleshooting section below.
+
+## Troubleshooting
+
+Installation errors:
+
+  * If you are getting `EACCESS` or permissions-related errors, it might be necessary to run the install as root, using the `sudo` command.
+
+  * If you are getting errors concerning node-gyp or python, install with `npm install --no-optional`
+
+Startup errors:
+
+  * If startup fails with `/usr/bin/env: node: No such file or directory`, it's possible node is not installed, or was installed with a different name (Ubuntu, for example, installs node as nodejs). If node was installed with a different name, create a symlink to your node binary: `sudo ln -s /usr/bin/nodejs /usr/bin/node`, or install node through [Node Version Manager](https://github.com/creationix/nvm).
+
+Runtime errors:
+
+  * If you are seeing a `TypeError` claiming that an object `has no method 'compare'`, it is because you are on a version of Node older than 0.12, before the `compare` method was added to Buffers. Try upgrading to at least Node version 0.12.
+
+  * If you are getting wallet decryption errors despite having correct credentials, then it's possible that you do not have Java installed, which is required by a dependency of the my-wallet-v3 module. Not having Java installed during the `npm install` process can result in the inability to decrypt wallets. Download the JDK from [here for Mac](https://support.apple.com/kb/DL1572) or by running `apt-get install default-jdk` on debian-based linux systems.
+
+Timeout Errors:
+
+  * If you are getting a timeout response, additional authorization from your blockchain wallet may be required. This can occur when using an unrecognized browser or IP address. An email authorizing the API access attempt will be sent to the registered user that will require action in order to authorize future requests.
+
+If this section did not help, please open a github issue or visit our [support center](https://blockchain.zendesk.com).
+
+## Usage
+
+After installing the service, the command `blockchain-wallet-service` will be available for use.
+
+### Options
+
+  * `-h, --help` - output usage information
+  * `-V, --version` - output the version number
+  * `-c, --cwd` - use the current directory as the wallet service module (development only)
+
+### Commands
+
+#### start
+
+Usage: `blockchain-wallet-service start [options]`
+
+This command will start the service, making Blockchain Wallet API V2 available on a specified port.
+
+Command options:
+
+  * `-h, --help` - output usage information
+  * `-p, --port` - port number to run the server on (defaults to `3000`)
+  * `-b, --bind` - bind to a specific ip (defaults to `127.0.0.1`, note that binding to an ip other than this can lead to security vulnerabilities)
+  * `--ssl-key` - the path to your ssl key (optional)
+  * `--ssl-cert` - the path to your ssl certificate (optional)
+
+To open the service to all incoming connections, bind to `0.0.0.0`.
+
+#### start-rpc
+
+Usage: `blockchain-wallet-service start-rpc [options]`
+
+This command will start the JSON RPC server.
+
+Options:
+
+  * `-k, --key` - api code to use for server requests (required option)
+  * `-p, --rpcport` - rpc server port (default: 8000)
+  * `-b, --bind` - bind to a specific ip (defaults to `127.0.0.1`, note that binding to an ip other than this can lead to security vulnerabilities)
+
+Get an API code [here](https://blockchain.info/api/api_create_code).
+
+### Examples
+
+To start the Wallet API service on port 3000:
+
+```sh
+$ blockchain-wallet-service start --port 3000
+```
+
+## Development
+
+  1. Clone this repo
+  2. Run `yarn --ignore-engines`
+  3. Run `yarn start`
+  4. Dev server is now running on port 3000
+
+If you are developing `blockchain-wallet-client` alongside this module, it is useful to create a symlink to `my-wallet-v3`:
+
+```sh
+$ ln -s ../path/to/my-wallet-v3 node_modules/blockchain-wallet-client
+```
+
+### Testing
+
+```sh
+$ yarn test
+```
+
+### Configuration
+
+Optional parameters can be configured in a `.env` file:
+
+  * `PORT` - port number for running dev server (default: `3000`)
+  * `BIND` - ip address to bind the service to (default: `127.0.0.1`)
+
+## Deployment
+
+If you want to use blockchain-wallet-service in your UNIX production server, you just have to run:
+
+```sh
+$ nohup blockchain-wallet-service start --port 3000 &
+```
+
